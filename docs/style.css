@@ -19,6 +19,7 @@ In this case, the computer.png sits on top.*/
     height: 475px;         
     overflow: hidden;
     z-index: 2;
+    pointer-events: none;
 }
 .video {
     position: absolute;      
