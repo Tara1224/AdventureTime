@@ -14,11 +14,6 @@ We would analyze **3–5** specific characters and compare their language use ac
 Some patterns we could look at: Word frequency, catchphrase detection, sentence length, emotional tone.
 The goal would be to see if characters have distinct linguistic “fingerprints” that a computer can recognize, even without their names attached to the dialogue.
 
-**This website provides scripts:** 
-Category:Transcripts | Adventure Time Wiki | Fandom
-We could also visualize the differences using word frequency charts, sentence length graphs, or clustering comparisons between characters.
-
-
 **Script Notation**
 
 Our original texts will be labled like so
@@ -31,6 +26,10 @@ For xml files
 ```
 ATE1.xml
 ```
+
+**This website provides scripts:** 
+Category:Transcripts | Adventure Time Wiki | Fandom
+We could also visualize the differences using word frequency charts, sentence length graphs, or clustering comparisons between characters.
 # Here is the link to the scripts: https://adventuretime.fandom.com/wiki/Category:Transcripts.
 
 ![AT Titlecard](docs/images/titlecard.jpg)
