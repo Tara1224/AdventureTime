@@ -1,0 +1,72 @@
+figcaption { 
+    text-align: center;
+    background: pink;
+    }
+    
+body {
+    background: #47A189;
+    font-family: Arial, "Courier New", sans-serif;
+    line-height:1.0em;
+    margin: 0;            /* remove default body margin */
+    overflow-x: hidden;   /* hide horizontal overflow */
+}
+
+.computer {
+    position: relative;
+    display: block;       /* removes inline spacing issues */
+    width: 100vw;         /* 100% of the viewport width */
+    height: 475px;         /* keeps the image's aspect ratio */
+    overflow: hidden;
+    z-index: 2;
+}
+.video {
+    position: absolute;      /* position inside container */
+    top: 80px;               /* adjust to fit behind screen area */
+    left: 300px;              /* adjust to fit behind screen area */
+    width: 700px;            /* video size */
+    height: 300px;
+    z-index: 1;              /* behind the image */
+}
+/* remove default spacing */
+
+/* navbar container */
+.navbar {
+    background-color: #222;
+    display: flex;              /* puts items in a row */
+}
+
+/* each link = block */
+.navbar a {
+    flex: 1;                    /* makes each link same width */
+    text-align: center;
+    padding: 15px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    display: block;
+}
+
+/* hover effect */
+.navbar a:hover {
+    background-color: #47A189;
+}
+
+h1 {
+   color: white;
+}
+footer {
+    background:#123524;
+    color: white;
+}
+h4 {
+    line-height:0.6em;
+    
+}
+.finn {
+    display: inline-block;           /* move this here */
+    transition: transform 1.1s ease; /* also better here */
+}
+
+.finn:hover {
+transform: translateY(-25px);
+}
