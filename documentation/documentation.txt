@@ -1,0 +1,28 @@
+Week 1 milestone: 
+Tara:
+created github with Trinity, Collin, and Dr.b
+created docs/directory
+created README.md & added information 
+
+Collin:
+joined repo 
+created splash page
+
+Trinity:
+joined repo
+started scripts
+
+
+
+Week 2 milestone:
+Tara
+added season 1 txt files 
+created documentation file
+
+Collin:
+updated read.me
+updated splash page
+
+Trinity:
+started markup structure
+created branch
