@@ -19,7 +19,8 @@ In this case, the computer.png sits on top.*/
     height: 475px;         
     overflow: hidden;
     z-index: 2;
-    pointer-events: none;
+    pointer-events: none; 
+    /*this pointer-events: none; gives an error in CSS editor but it works in the browser so I will keep it*/
 }
 .video {
     position: absolute;      
