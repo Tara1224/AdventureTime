@@ -1,0 +1,75 @@
+figcaption { 
+    text-align: center;
+    background: pink;
+    }
+    
+body {
+    background: #47A189;
+    font-family: Arial, "Courier New", sans-serif;
+    line-height:1.0em;
+    margin: 0;            
+    overflow-x: hidden;  
+}
+/*.computer and .video are apart of the bmo setup, where the z-index indicates which sits on top. 
+In this case, the computer.png sits on top.*/ 
+.computer {
+    position: relative;
+    display: block;   
+    width: 100vw;        
+    height: 475px;         
+    overflow: hidden;
+    z-index: 2;
+    pointer-events: none; 
+    /*this pointer-events: none; gives an error in CSS editor but it works in the browser so I will keep it*/
+}
+.video {
+    position: absolute;      
+    top: 80px;              
+    left: 325px;             
+    width: 700px;          
+    height: 300px;
+    z-index: 1;            
+}
+
+
+
+.navbar {
+    background-color: #222;
+    display: flex; 
+}
+
+
+.navbar a {
+    flex: 1;                   
+    text-align: center;
+    padding: 15px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    display: block;
+}
+
+
+.navbar a:hover {
+    background-color: #47A189;
+}
+
+h1 {
+   color: white;
+}
+footer {
+    background:#123524;
+    color: white;
+}
+h4 {
+    line-height:0.6em;
+    
+}
+.finn {
+    display: inline-block;           
+    transition: transform 1.1s ease; 
+}
+
+.finn:hover {
+transform: translateY(-25px);
+}
