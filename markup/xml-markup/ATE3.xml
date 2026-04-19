@@ -18,7 +18,7 @@
 <line><character>Ice King</character><dialogue>What?! <stage>Approaches the crater</stage> Who dares enter the Ice Kingdom?!</dialogue></line>
 <line><character>Finn</character><dialogue>Aww, Ice King's here.</dialogue></line>
 <line><character>Ice King</character><dialogue>You know why I'm here? Do you know what "Ice King" means?!</dialogue></line>
-<line><character>Jake: Yeah, I know what "Ice King" means</character><dialogue>A big nerd!</dialogue></line>
+    <line><character>Jake</character><dialogue>Yeah, I know what "Ice King" means, A big nerd!</dialogue></line>
 <line><character>Finn</character><dialogue>Oh ho oh! Holy cow!</dialogue></line>
 <line><character>Ice King</character><dialogue>It means I'm King of Ice! This is my domain! And you are violating Ice World law--trespassing!</dialogue></line>
 <line><character>Jake</character><dialogue>Come on, brother! We're just trying to beat the heat.</dialogue></line>

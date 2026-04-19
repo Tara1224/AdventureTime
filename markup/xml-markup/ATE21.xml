@@ -117,7 +117,7 @@
     <line><character>Finn</character><dialogue>What's it goin'?!</dialogue></line>
     <line><character>Donny</character><dialogue>Thanks to you, I shall never be jerky again!</dialogue></line>
     <line><character>Finn</character><dialogue>Oh, no... Oh, no. Oh, no, nonononononono! No! This is all wrong! We need jerk Donny to make the obnoxygen, and, and—</dialogue></line>
-    <line><character>Donny: Steady on, Finn. Perhaps you are dehydrated! It's as Jake taught me</character><dialogue><stage>Singing</stage> "8 ounces, 8 glasses, 8 days a week!" <stage>Speaking</stage> I'll fetch you some tap water.</dialogue></line>
+    <line><character>Donny</character><dialogue>Steady on, Finn. Perhaps you are dehydrated! It's as Jake taught me, <stage>Singing</stage> "8 ounces, 8 glasses, 8 days a week!" <stage>Speaking</stage> I'll fetch you some tap water.</dialogue></line>
     <line><character>Finn</character><dialogue>Are you wearing jeans now?!</dialogue></line>
     <line><character>Donny</character><dialogue>Surely! <stage>Singing</stage> Gotta get pants! Go get your pants! Button, fly! I wrote that one myself. Perdoname. <stage>Leaves</stage></dialogue></line>
     <line><character>Finn</character><dialogue>But, but, but—</dialogue></line>

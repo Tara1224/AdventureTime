@@ -93,7 +93,7 @@
     <line><character>Jake</character><dialogue><stage>worried moan</stage></dialogue></line>
     <line><stage>An alarm starts sounding. Finn and Jake see that it is coming from the Spiky Village.</stage></line>
     <line><character>Alarm</character><dialogue>City in danger! City in danger!</dialogue></line>
-    <line><character>Finn: Let's go! Oh, wait--what if these guys think you're the Gut Grinder? Hmm... <stage>snaps fingers</stage> Ah-ha! <stage>reaches into his pack</stage> Got the perfect thing for ya</character><dialogue><stage>pulls out glasses</stage> Groucho glasses! <stage>places glasses on a lump of Jake's fat</stage></dialogue></line>
+    <line><character>Finn</character><dialogue>Let's go! Oh, wait--what if these guys think you're the Gut Grinder? Hmm... <stage>snaps fingers</stage> Ah-ha! <stage>reaches into his pack</stage> Got the perfect thing for ya <stage>pulls out glasses</stage> Groucho glasses! <stage>places glasses on a lump of Jake's fat</stage></dialogue></line>
     <line><character>Jake</character><dialogue>I love it! <stage>kisses lump, hides his face by moving it to his chest</stage> Launch in 3, 2, 1! <stage>jumps toward Spiky Village</stage></dialogue></line>
     <line><character>Finn</character><dialogue>Woohoo! Yeah!</dialogue></line>
     <line><stage>They enter Spiky Village. Several Spiky People are seen crying.</stage></line>
@@ -116,7 +116,7 @@
     <line><stage>Spiky People start murmuring angrily and surround Finn and Jake.</stage></line>
     <line><character>Finn</character><dialogue>No, no-no-no-no! He's not the Gut Grinder! I swear on my good name... and justice... and Jake's cute face!</dialogue></line>
     <line><stage>Jake bats his eyelids.</stage></line>
-    <line><character>Spiky Mayor: His face is weird. The truth is obvious</character><dialogue>your friend is the Gut Grinder!</dialogue></line>
+    <line><character>Spiky Mayor</character><dialogue>His face is weird. The truth is obvious, your friend is the Gut Grinder!</dialogue></line>
     <line><stage>Spiky People take Jake.</stage></line>
     <line><character>Finn</character><dialogue>NOOOOOO!</dialogue></line>
     <line><character>Spiky Mayor</character><dialogue><stage>as Spiky People put Jake in jail.</stage> You are under arrest for stealing our gold.</dialogue></line>
