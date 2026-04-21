@@ -1,0 +1,49 @@
+import sys
+import os
+from collections import Counter
+import importlib
+import matplotlib.pyplot as plt
+
+scripts_folder = r"C:\Users\Tara\Documents\school-apps\GitHub\AdventureTime\script"
+sys.path.append(scripts_folder)
+
+scripts = []
+for i in range(1, 27):
+    module_name = f"ATE{i}" if i > 1 else "ATE"
+    try:
+        mod = importlib.import_module(module_name)
+        scripts.append(mod)
+        print(f"Imported {module_name}")
+    except ModuleNotFoundError:
+        print(f"{module_name} not found")
+        
+This section above sets up the environment for text processing. It also imports required Python libraries. It connects the script folder to Python’s system path so that ATE, ATE2, etc. can be imported. The loop imports up to 26 different modules and stores the successfully loaded ones in a list for later use.
+ processed_texts = []
+
+for filename in os.listdir(scripts_folder):
+    if filename.endswith(".txt"):
+        with open(os.path.join(scripts_folder, filename), "r", encoding="utf-8") as f:
+            text = f.read()
+            for script in scripts:
+                if hasattr(script, "process_text"):
+                    text = script.process_text(text)
+            processed_texts.append(text)
+
+print(f"Processed {len(processed_texts)} scripts")
+This section above loads all the .txt files from the dataset folder and applies a series of preprocessing steps to each file. Each text file is read and passed through processing modules. The processed versions of each script are stored in a list, and the program outputs how many scripts were successfully processed.
+corpus = " ".join(processed_texts)
+words = corpus.split()
+word_counts = Counter(words)
+
+top_words = word_counts.most_common(20)
+print("Top 20 words:")
+for w, c in top_words:
+    print(f"{w}: {c}")
+
+words_plot, counts_plot = zip(*top_words)
+plt.figure(figsize=(12,6))
+plt.bar(words_plot, counts_plot, color="#47A189")
+plt.xticks(rotation=45)
+plt.title("Top 20 Words in Adventure Time Season 1")
+plt.show()
+This section combines all processed text into a single corpus and performs basic frequency analysis. The text is split into individual words, and a frequency count is calculated using Python’s Counter tool. The 20 most common words in the dataset are calculated. Finally, these results are visualized using a bar chart created with Matplotlib, allowing for a visual interpretation of word frequency patterns in the Adventure Time corpus.
