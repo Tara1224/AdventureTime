@@ -26,7 +26,7 @@
     <line><stage>Electricity crackles</stage> <stage>Whimpers</stage> <stage>Grunts</stage> <stage>Sizzling</stage></line>
     <line><character>Young Bubblegum</character><dialogue><stage>Laughs</stage> It worked! <stage>To the elderly female figure on far right</stage>:Your name is Aunt Lolly!</dialogue></line>
     <line><character>Lolly</character><dialogue>A pleasure to meet you, dear.</dialogue></line>
-    <line><character>Young Bubblegum: <stage>To the young male figure in the middle</stage></character><dialogue>And you're Cousin Chicle. You're a full 2.3 meters tall.</dialogue></line>
+    <line><character>Young Bubblegum</character><stage>To the young male figure in the middle</stage><dialogue>And you're Cousin Chicle. You're a full 2.3 meters tall.</dialogue></line>
     <line><character>Cousin Chicle</character><dialogue>Naturally I am a gentleman of high standing.</dialogue></line>
     <line><character>Young Bubblegum</character><dialogue>Oh, Cousin Chicle. And finally Uncle Gumbald! This is your favorite mug.</dialogue></line>
     <line><character>Uncle Gumbald</character><dialogue>Ah, yes. <stage>Examines mug</stage> I'm your GREAT uncle. The mug proclaims it so.</dialogue></line>

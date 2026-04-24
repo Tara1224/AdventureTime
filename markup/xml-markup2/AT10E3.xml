@@ -37,7 +37,7 @@
     <line><stage>Audience is unimpressed. Most of them exit, talking among themselves, except for a familiar-looking individual with a mustache.</stage></line>
     <line><character>"Victor Marilyn"</character><dialogue>Hello there, young lady. I heard you lay down some serious rhymes earlier. <stage>Eats a clam and hands Flame Princess a business card.</stage> My card.</dialogue></line>
     <line><character>Flame Princess</character><dialogue><stage>Reading</stage> Victor Marilyn? <stage>The card burns up in her hands.</stage></dialogue></line>
-    <line><character>"Victor Marilyn": I'm a talent scout by trade and, uh... <stage>Eats another clam</stage> and I'd love to book you for a big-time rap battle next week</character><dialogue>Rap Fest Aid.</dialogue></line>
+    <line><character>"Victor Marilyn"</character>I'm a talent scout by trade and, uh... <stage>Eats another clam</stage> and I'd love to book you for a big-time rap battle next week<dialogue>Rap Fest Aid.</dialogue></line>
     <line><character>Flame Princess</character><dialogue>Whoa. I've never heard of Rap Fest Aid.</dialogue></line>
     <line><character>Finn</character><dialogue>It sure sounds like the big time.</dialogue></line>
     <line><character>"Victor Marilyn"</character><dialogue>But before I can book you anywhere, I'm gonna have to have you sign some waivers and release forms. Boilerplate stuff. Don't bother reading it.</dialogue></line>
