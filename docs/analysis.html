@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
-  
+
     <head>
-       
+
         <title>Analysis</title>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-       
+
         <link rel="stylesheet" type="text/css" href="style.css" />
     </head>
-    
-    
+
+
     <body>
         <nav class="navbar">
             <a href="index.html">Home</a>
@@ -19,37 +19,32 @@
             <a href="jupyter.html">Linguistic Analysis</a>
             <a href="analysis.html">Character Analysis</a>
             <a href="credits.html">Credits</a>
-            
-            
         </nav>
-       
-        
-          
-           
-        
         <h1 style="text-align:center;">Character Analysis</h1>
-       
         <h3 style="text-align:center;">DIGIT 210</h3>
-       <div class="content-box">
-                <h1 style="margin-left:20px;">Question</h1>
-                <h4 style="margin-left:20px;">
-                    Can we identify which character is speaking based only on dialogue patterns? We would analyze 3–5 specific
-                    characters and compare their language use across episodes. Some patterns we could look at: Word frequency,
-                    catchphrase detection, sentence length, emotional tone. <b style="color:red;">We also want to figure out differences from the pilot episode
-                        all the way to the finale. We can do this by making separate code for both season 1 and 10.</b>
-                </h4>
-       </div>
+        <div class="content-box">
+            <h1 style="margin-left:20px;">Question</h1>
+            <h4 style="margin-left:20px;"> Can we identify which character is speaking based only on
+                dialogue patterns? We would analyze 3–5 specific characters and compare their
+                language use across episodes. Some patterns we could look at: Word frequency,
+                catchphrase detection, sentence length, emotional tone. <b style="color:red;">We
+                    also want to figure out differences from the pilot episode all the way to the
+                    finale. We can do this by making separate code for both season 1 and 10.</b>
+            </h4>
+        </div>
         <div class="content-box">
             <h1 style="text-align:center;">Legend</h1>
-            
+
             <table border="1" style="text-align:center; margin: 0 auto; background:white;">
                 <tr>
-                    <td><img src="images/circle.png" width="100" alt="circle"></img></td>
-                    <td>This symbolizes a episode node. There are 26 episodes in season 1 and 13 in season 10.</td>
+                    <td><img src="images/circle.png" width="100" alt="circle" /></td>
+                    <td>This symbolizes a episode node. There are 26 episodes in season 1 and 13 in
+                        season 10.</td>
                 </tr>
                 <tr>
-                    <td><img src="images/diamond.png" width="90" alt="diamong"></img></td>
-                    <td>This symbolizes a character node. The larger the size, the more the character speaks.</td>
+                    <td><img src="images/diamond.png" width="90" alt="diamong" /></td>
+                    <td>This symbolizes a character node. The larger the size, the more the
+                        character speaks.</td>
                 </tr>
                 <tr>
                     <td><h4 style="color:yellow;">Yellow Fill</h4></td>
@@ -57,79 +52,83 @@
                 </tr>
                 <tr>
                     <td><h4 style="color:#D3D3D3;">Grey Fill</h4></td>
-                    <td>If a node is filled in grey, then it has the second most total speeches.</td>
+                    <td>If a node is filled in grey, then it has the second most total
+                        speeches.</td>
                 </tr>
                 <tr>
                     <td><h4 style="color:brown;">Brown Fill</h4></td>
-                    <td>If a node is filled in brown, then it has the third most total speeches.</td>
+                    <td>If a node is filled in brown, then it has the third most total
+                        speeches.</td>
                 </tr>
             </table>
         </div>
         <div class="content-box">
             <h1 style="margin-left:20px;">Season 1 CytoScape Model</h1>
-            <img src="images/cytoscape_edit.svg" alt="diagram" class="cyto" width="800"></img>
-            <h4 style="margin-left:20px;">
-                We ranked the top 3 speakers within season 1, indicated by a gold, silver or brown complextion. In first we have Jake (68), tied for second we have Finn and Marceline (48), and finally Tree Trunks in 3rd (46).
-            </h4>
+            <img src="images/cytoscape_edit.svg" alt="diagram" class="cyto" width="800" />
+            <h4 style="margin-left:20px;"> We ranked the top 3 speakers within season 1, indicated
+                by a gold, silver or brown complextion. In first we have Jake (68), tied for second
+                we have Finn and Marceline (48), and finally Tree Trunks in 3rd (46). </h4>
         </div>
         <div class="content-box">
             <h1 style="margin-left:20px;">Season 10 CytoScape Model</h1>
-            <img src="images/cytoscape2edited.svg" alt="diagram" class="cyto" width="800"></img>
-            <h4 style="margin-left:30px;">
-                This is our Cytoscape creation for season 10 of Adventure Time, the final season. As you can see, for the final episode, there are so many speakers. This means that all the characters returned for the final episode. Ranked for number of speeches, in first we have Tree Trunks (62), second we have Warren Ampersand (43), and finally a tie in 3rd Hunson and Finn (40).
-            </h4>
+            <img src="images/cytoscape2edited.svg" alt="diagram" class="cyto" width="800" />
+            <h4 style="margin-left:30px;"> This is our Cytoscape creation for season 10 of Adventure
+                Time, the final season. As you can see, for the final episode, there are so many
+                speakers. This means that all the characters returned for the final episode. Ranked
+                for number of speeches, in first we have Tree Trunks (62), second we have Warren
+                Ampersand (43), and finally a tie in 3rd Hunson and Finn (40). </h4>
         </div>
-       
-       <div class="content-box">
-        <h1 style="margin-left:20px; color:white;">Conclusion</h1>
-       
-        <h3 style="margin-left:20px; color:white;">Season 1</h3>
-        <h4 style="margin-left:20px;">
-            Dialogue is heavily concentrated around a few main characters:</h4>
-        <ul style="text-align:left;">
-            <li>Finn the Human</li>
-            <li>Jake the Dog</li>
-        </ul>
-        <h4 style="margin-left:20px;">
-            Episodes are more episodic and simple, so most lines go to the main duo.
-            Side characters appear, but they don’t carry much dialogue weight<br></br>
-            Nodes are really big for Finn and Jake and mostly really small for other characters.<br>
-            </br>
-            Many small, less connected nodes. 
-        </h4>
-        <h3 style="margin-left:20px; color:white;">Season 10 (Final Season)</h3>
-        <h4 style="margin-left:20px;">
-            Dialogue becomes much more spread out across many characters.
-            Side characters become central to the story:</h4>
-           <ul style="text-align:left;">
-            <li>Princess Bubblegum</li>
-            <li>Marceline</li>
-            <li>Ice King</li>
-            <li>Tree Trunks</li>
-        </ul>
-        <h4 style="margin-left:20px;">
-            More medium-sized nodes instead of just a few huge ones. More connections between different characters (not just Finn/Jake)
-        </h4>
-        <h3 style="margin-left:20px; color:red;">Season 1: Main-character driven (Finn and Jake dominate)</h3>
-        <h3 style="margin-left:20px; color:red;">Final Season: Ensemble cast (many characters share importance)</h3>
-        
+        <div class="content-box">
+            <h1 style="margin-left:20px; color:white;">Conclusion</h1>
+
+            <h3 style="margin-left:20px; color:white;">Season 1</h3>
+            <h4 style="margin-left:20px;"> Dialogue is heavily concentrated around a few main
+                characters:</h4>
+            <ul style="text-align:left;">
+                <li>Finn the Human</li>
+                <li>Jake the Dog</li>
+            </ul>
+            <h4 style="margin-left:20px;"> Episodes are more episodic and simple, so most lines go
+                to the main duo. Side characters appear, but they don’t carry much dialogue
+                weight<br /> Nodes are really big for Finn and Jake and mostly really small for
+                other characters.<br> </br> Many small, less connected nodes. </h4>
+            <h3 style="margin-left:20px; color:white;">Season 10 (Final Season)</h3>
+            <h4 style="margin-left:20px;"> Dialogue becomes much more spread out across many
+                characters. Side characters become central to the story:</h4>
+            <ul style="text-align:left;">
+                <li>Princess Bubblegum</li>
+                <li>Marceline</li>
+                <li>Ice King</li>
+                <li>Tree Trunks</li>
+            </ul>
+            <h4 style="margin-left:20px;"> More medium-sized nodes instead of just a few huge ones.
+                More connections between different characters (not just Finn/Jake) </h4>
+            <h3 style="margin-left:20px; color:red;">Season 1: Main-character driven (Finn and Jake
+                dominate)</h3>
+            <h3 style="margin-left:20px; color:red;">Final Season: Ensemble cast (many characters
+                share importance)</h3>
+
         </div>
-        
-          
-            
-           
         <footer>
-            <h3 style="text-align:center;"><b>Contacts</b> 
+            <h3 style="text-align:center;"><b>Contacts</b>
             </h3>
-            
-            
-            
-            <p style="text-align:center;">Emails: cro5191@psu.edu (Colin), tem5597@psu.edu (Tara), trt5294@psu.edu (Trinity)<br></br>
-                Professor: Beshero-Bonder | eeb4@psu.edu<br></br></p>
-            <p style="text-align:center;"><a href="https://example.com">Tara, Trinity, and Colin DIGIT 210 Website</a> © 2026 by <a href="https://example.com">Team Adventure Time</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"></img></p>
-            <p style="text-align:center;"><a href="https://github.com/Tara1224/AdventureTime.git" target="blank">
-                    <img src="images/git.png" width="30" alt="GitHub Logo"></img>
-            </a></p>
+
+
+
+            <p style="text-align:center;">Emails: cro5191@psu.edu (Colin), tem5597@psu.edu (Tara),
+                trt5294@psu.edu (Trinity)<br /> Professor: Beshero-Bonder | eeb4@psu.edu<br /></p>
+            <p style="text-align:center;"><a href="https://example.com">Tara, Trinity, and Colin
+                    DIGIT 210 Website</a> © 2026 by <a href="https://example.com">Team Adventure
+                        Time</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">
+                            CC BY-SA 4.0 License
+                        </a>
+                <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt=""
+                    style="max-width: 1em;max-height:1em;margin-left: .2em;" /></p>
+
+            <p style="text-align:center;"><a href="https://github.com/Tara1224/AdventureTime.git"
+                    target="blank">
+                    <img src="images/git.png" width="30" alt="GitHub Logo" />
+                </a></p>
         </footer>
     </body>
 </html>
