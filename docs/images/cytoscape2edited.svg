@@ -1,0 +1,3449 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 392 303" width="392" height="303">
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #e3e0e0 } 
+		.s1 { fill: none;stroke: #7a0b66;stroke-linecap: round;stroke-miterlimit:10;stroke-width: .4 } 
+		.s2 { fill: none;stroke: #6e016b;stroke-linecap: round;stroke-miterlimit:10;stroke-width: .4 } 
+		.s3 { fill: #ee7fe7 } 
+		.t4 { font-size: 12px;fill: #000000;font-family: "Helvetica" } 
+		.s5 { fill: #a35605 } 
+		.s6 { fill: #fafa20 } 
+		.s7 { fill: #bdbdbd } 
+	</style>
+	<g>
+		<g>
+			<path class="s0" d="m-243 0h877v303h-877z"/>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m152.84 87.14l19.47 21.35"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m288.73 104.48l-28.74 27.19"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m208.19 116.96l-9.63 27.44"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m206.6 115.37l-25.09 6.42"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m209.74 112.59l10.86-30.11"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m206.3 114.47l-27.53-3.06"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m211.08 115.6l43.13 17.02"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m157.58 175.46l25.29-12.63"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m229.19 45.74l-6.5 29.45"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m142.17 91.09l29.47 18.07"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m276.33 155.16l-16.55-18.72"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m167.05 92.77l9.49 26.52"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m167.05 92.02l6.41-17.71"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m204.11 137.9l-27.11-24.72"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m204.15 138.42l-16.08 20.23"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m204.85 138.1l48.38-3.81"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m245.58 63.16l-20.92 13.99"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m138.53 109.01l31.56 1.69"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m277.1 104.5l-17.65 26.63"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m147.6 133.79l26.74-9.79"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m197.34 113.36l-21-39.44"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m197.53 115.28l-10.59 42.23"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m198.79 114.55l55.26 18.24"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m196.87 114.62l-15.8 6.73"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m196.64 114.06l-17.98-2.54"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m198.34 113.43l21.6-31.61"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m196.84 114.58l-34.18 12.87"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m244.4 50.43l-20.49 25.98"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m178.09 49.24l-2.75 17.56"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m284.05 135.39l-22.03-1.2"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m157.98 146.87l0.97-13.75"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m158.88 147.77l16.88-22.35"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m168.95 180.04l14.81-16.32"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m258.04 60.82l-33.07 16.64"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m179.29 34.15l-4.06 32.54"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m266.41 161.05l-7.68-23.56"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m159.82 116.54l34.97 29.2"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m159.92 116.44l14.39 5.08"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m159.53 116.8l-0.17 7.35"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m159.19 116.15l-30.64-13.66"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m208.72 95.75l11.06-14.09"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m192.86 106.73l26.59-25.4"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m232.87 58.56l-9.38 17.42"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m194.59 53.87l-17.35 14.83"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m243.08 149.62l12.24-13.23"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m204.47 124.35l-22.27-1.34"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m204.75 124.06l-26.93-11.7"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m206.54 124.59l47.07 8.63"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m205.26 125.27l-6.7 19.13"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m215.31 13.89l6.38 34.13"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m216.72 27.39l4.82 20.77"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m244.34 18.15l-20.07 30.97"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m241.2 83.56l-17.03-28.65"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m231.85 27.15l-8.13 21.42"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m230.44 83.93l-7.07-28.21"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m208.34 95.36l12.94-39.85"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m204.08 24.02l16.49 25.12"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m191.89 105.76l28.84-50.8"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m255.81 34.73l-30.29 15.64"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m244.08 31.68l-19.23 18.02"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m229.3 13.6l-6.16 34.39"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m88.7 111.33l32.94-9.26"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m152.73 61.32l18.71 8.12"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m294.83 116.11l-34.08 16.32"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m163.11 102.34l12.7 17.68"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m162.33 102.81l-2.58 21.73"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m162.91 100.42l10.46-26.21"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m189.09 116.07l-2.79 40.8"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m190.63 115.37l5.91 28.62"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m194.54 108.41l24.61-7.47"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m183.37 110.35l-4.43 0.29"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m194.36 111.64l59.75 21.09"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m186.38 113.35l-6.36 6.95"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m187.71 105.18l-11.71-30.92"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m185.47 112.44l-23.32 14.49"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m183.76 109.14l-54.34-7.53"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m186.29 113.26l-37.85 39.14"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m102.54 108.77l19.26-6.54"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m167.73 45.39l5.97 21.79"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m272.53 169.03l-13.55-31.79"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m217.43 131.11l35.76 2.53"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m213.39 130.54l-31.77-6.95"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m99.67 122.23l23.06-19.07"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m108.43 82.67l14.63 15.92"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m181.47 120.51l-52.68-18.26"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m100.97 95.08l20.56 5.04"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m94.19 85.81l27.96 13.69"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m98.64 73.22l24.37 25.42"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m87.1 97.51l33.91 3.13"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m114.95 70.8l9.16 26.74"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m145.83 40.99l26.57 27.49"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m266.55 116.6l-7.37 14.26"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m200.93 103.05l-20.62 17.54"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m200.97 102.54l-24.14-29.11"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m201.53 103l53.02 29.28"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m125.78 125.59l29.18 2.74"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m181.08 123.41l-18.06 4.4"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m133.5 139.43l22.44-9.32"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m191.82 130.43l-28.11-1.47"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m134.18 152.39l22.66-21.38"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m136.16 129.85l18.62-0.9"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m157.69 50.81l14.86 17.51"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m294.7 143.02l-33.35-8.15"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m165.33 136.17l10.19-10.99"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m164.66 135.51l8.54-21.23"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m182.96 119.02l-6.02-5.78"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m177.21 139.5l-2.26-24.27"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m206.46 97.44l-28.62 12.1"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m162.85 79.77l10.41 27.76"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m193.65 128.59l-16.67-15.4"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m177.24 92.2l-2.11 14.64"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m147.9 102.81l23.05 7.03"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m140.36 65.81l30.26 4.45"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m232.74 89.84l23.15 41.11"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m145.23 120.79l28.12 1.69"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m185.04 116.94l-9.47-42.25"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m140.52 52.46l31.14 16.76"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m168.5 34.14l5.53 32.71"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m156.73 34.39l16.43 33.33"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m206.74 95.99l-29.4-23.07"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m189.43 41.58l-13.15 26.16"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m255.75 165.74l1.57-27.35"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m188.4 91.21l-9.44 28.03"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m217.46 202.07l-18.85-50.77"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m207.51 98.49l-9.36 45.49"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m188.14 126.61l7.79 17.99"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m206.4 198.91l-8.35-47.05"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m271.18 138.64l-10.11-3.49"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m171.19 154.21l5.77-27.58"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m180.24 122.57l1.92-0.13"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m177.36 92.29l0.35 25.83"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m214.32 142.42l-33.5-18.03"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m266.99 149.54l-7.65-12.67"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m214.58 142.45l39.08-7.73"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m190.18 119.73l29.65-18.1"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m243.48 109l-17.48-7.71"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m229.01 127.75l-5.4-24.07"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m221.34 118.32l1.07-14.11"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m239.55 119.37l-14.63-17"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m248.55 95.26l-21.82 3.88"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m251.16 77.04l-25.81 20.72"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m210.3 71.93l11 24.67"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m252.43 104.87l-25.67-4.34"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m231.13 147.99l23.38-12.41"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m138.25 187.28l6.97-28.72"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m129.45 178.63l14.75-21.09"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m110.6 158.77l31.32-3.51"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m119.82 167.62l23.16-11.3"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m121.91 176.61l21.76-19.6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m182.69 125.02l-33.97 27.66"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m239.3 100.81l16.61 30.12"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m186.18 128.51l-0.16 28.09"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m191.69 123.06l61.86 10.22"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m297.01 130.56l-35.11 3.02"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m244.7 162.54l11.42-25.36"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m262.43 175.31l-4.36-37.16"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m254.65 154.32l2.34-16.27"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m287.21 124.48l-26.08 8.33"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m264.37 94.89l-6.1 35.06"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m249.09 175.92l7.7-38.07"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m229.19 127.93l24.51 5.2"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m232.72 159.08l22.52-22.77"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m208.99 97.7l45.9 34.25"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m241.62 84.49l14.81 45.91"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m258.18 142.56l-0.3-4.23"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m283.63 164.2l-23.88-27.73"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m235.61 170.53l20.21-33.65"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m276.05 126.14l-15.18 6.42"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m253.73 106.22l3.27 23.61"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m233.29 112.35l21.8 19.39"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m199.92 130.85l53.2 2.86"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m217.35 158.85l37.33-23.11"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m265.72 106.04l-7.08 24.28"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m249.73 96.04l7.04 34.02"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m276.93 92.83l-17.85 37.93"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m276.9 143.51l-16.19-8.01"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m289.77 153.75l-29.29-18.01"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m246.36 111.71l9.64 19.12"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m279.61 115.19l-19.5 16.6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m265.47 128.82l-5.05 3.28"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m216.81 159l-26.44 1.94"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m163.17 193.09l20.87-29.09"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m246.21 282.74l-21.8-59.41"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m175.99 199.57l9.03-34.59"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m255.72 264.33l-30.59-41.72"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m178.66 187.97l6.32-23.03"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m202.86 183.23l-14.83-19.31"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m190.29 184.84l-3.57-19.61"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m177.59 141.12l7.02 16.83"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m190.51 198.11l-4-32.67"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m233.19 279.31l-9.36-55.39"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m253.35 252.04l-27.93-29.72"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m236.56 226.95l-10.34-5.43"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m218.31 204.53l3.71 11.8"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m243.45 268.58l-18.92-45.37"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m201.3 254.21l20.02-31.44"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m206.98 281.71l15.19-58.09"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m213.53 212.08l7.03 5.72"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m218.55 271.45l4.21-47.24"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m200.16 269.25l21.5-46.15"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s1" d="m222.97 287.78l0.17-63.2"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m152.75 87.07l-0.02-0.02 0.02-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m152.75 87.07l-0.02-0.02 0.02-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="MARCELINE, HUNTRESS " style="transform: matrix(.209,0,0,.209,137.53,86.415)">
+				<tspan x="0" y="0" class="t4">MARCELINE, HUNTRESS 
+</tspan>
+			</text>
+		</g>
+		<g>
+			<text id="WIZARD, BMO AND STARCHY " style="transform: matrix(.209,0,0,.209,134.612,89.563)">
+				<tspan x="0" y="0" class="t4">WIZARD, BMO AND STARCHY 
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m288.91 104.18l0.13 0.13-0.13 0.14-0.14-0.14z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m288.91 104.18l0.13 0.13-0.13 0.14-0.14-0.14z"/>
+			</g>
+		</g>
+		<g>
+			<text id="CAKE PERSON SHATTERED" style="transform: matrix(.209,0,0,.209,271.945,105.255)">
+				<tspan x="0" y="0" class="t4">CAKE PERSON SHATTERED
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m208.96 112.02l2.75 2.75-2.75 2.75-2.75-2.75z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m208.96 112.02l2.75 2.75-2.75 2.75-2.75-2.75z"/>
+			</g>
+		</g>
+		<g>
+			<text id="ICE KING" style="transform: matrix(.209,0,0,.209,203.466,115.709)">
+				<tspan x="0" y="0" class="t4">ICE KING
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m157.46 175.55l-0.03-0.03 0.03-0.02 0.03 0.02z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m157.46 175.55l-0.03-0.03 0.03-0.02 0.03 0.02z"/>
+			</g>
+		</g>
+		<g>
+			<text id="ANOTHER BANANA GUARD" style="transform: matrix(.209,0,0,.209,140.987,176.465)">
+				<tspan x="0" y="0" class="t4">ANOTHER BANANA GUARD
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m229.52 42.64l1.6 1.61-1.6 1.61-1.61-1.61z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m229.52 42.64l1.6 1.61-1.6 1.61-1.61-1.61z"/>
+			</g>
+		</g>
+		<g>
+			<text id="PUDDING TROLL" style="transform: matrix(.209,0,0,.209,219.366,45.192)">
+				<tspan x="0" y="0" class="t4">PUDDING TROLL
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m141.75 90.38l0.46 0.46-0.46 0.46-0.46-0.46z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m141.75 90.38l0.46 0.46-0.46 0.46-0.46-0.46z"/>
+			</g>
+		</g>
+		<g>
+			<text id="EVERYONE" style="transform: matrix(.209,0,0,.209,134.797,91.781)">
+				<tspan x="0" y="0" class="t4">EVERYONE
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m276.42 155.28l-0.03-0.03 0.03-0.02 0.02 0.02z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m276.42 155.28l-0.03-0.03 0.03-0.02 0.02 0.02z"/>
+			</g>
+		</g>
+		<g>
+			<text id="MAJA" style="transform: matrix(.209,0,0,.209,273.08,156.197)">
+				<tspan x="0" y="0" class="t4">MAJA
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m166.92 92.1l0.3 0.3-0.3 0.3-0.3-0.3z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m166.92 92.1l0.3 0.3-0.3 0.3-0.3-0.3z"/>
+			</g>
+		</g>
+		<g>
+			<text id="CRUNCHY" style="transform: matrix(.209,0,0,.209,160.662,93.338)">
+				<tspan x="0" y="0" class="t4">CRUNCHY
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m204.38 137.84l0.3 0.3-0.3 0.3-0.3-0.3z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m204.38 137.84l0.3 0.3-0.3 0.3-0.3-0.3z"/>
+			</g>
+		</g>
+		<g>
+			<text id="BANANA GUARDS" style="transform: matrix(.209,0,0,.209,193.531,139.083)">
+				<tspan x="0" y="0" class="t4">BANANA GUARDS
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m245.88 62.66l0.3 0.3-0.3 0.29-0.3-0.29z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m245.88 62.66l0.3 0.3-0.3 0.29-0.3-0.29z"/>
+			</g>
+		</g>
+		<g>
+			<text id="WISHY" style="transform: matrix(.209,0,0,.209,241.779,63.897)">
+				<tspan x="0" y="0" class="t4">WISHY
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m138.05 108.69l0.3 0.3-0.3 0.3-0.3-0.3z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m138.05 108.69l0.3 0.3-0.3 0.3-0.3-0.3z"/>
+			</g>
+		</g>
+		<g>
+			<text id="UNIDENTIFIABLE BANANA GUARD" style="transform: matrix(.209,0,0,.209,117.471,109.931)">
+				<tspan x="0" y="0" class="t4">UNIDENTIFIABLE BANANA GUARD
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m277.24 104.16l0.13 0.14-0.13 0.13-0.14-0.13z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m277.24 104.16l0.13 0.14-0.13 0.13-0.14-0.13z"/>
+			</g>
+		</g>
+		<g>
+			<text id="LSP" style="transform: matrix(.209,0,0,.209,274.873,105.238)">
+				<tspan x="0" y="0" class="t4">LSP
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m147.47 133.87l-0.03-0.03 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m147.47 133.87l-0.03-0.03 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="SQUIRREL" style="transform: matrix(.209,0,0,.209,141.073,134.784)">
+				<tspan x="0" y="0" class="t4">SQUIRREL
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m197.8 113.11l1.11 1.11-1.11 1.12-1.12-1.12z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m197.8 113.11l1.11 1.11-1.11 1.12-1.12-1.12z"/>
+			</g>
+		</g>
+		<g>
+			<text id="PRINCESS BUBBLEGUM" style="transform: matrix(.209,0,0,.209,183.197,115.163)">
+				<tspan x="0" y="0" class="t4">PRINCESS BUBBLEGUM
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m244.48 50.36l-0.03-0.03 0.03-0.02 0.02 0.02z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m244.48 50.36l-0.03-0.03 0.03-0.02 0.02 0.02z"/>
+			</g>
+		</g>
+		<g>
+			<text id="ICE KING AND FINN" style="transform: matrix(.209,0,0,.209,232.728,51.275)">
+				<tspan x="0" y="0" class="t4">ICE KING AND FINN
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m178.11 49.11l-0.03-0.02 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m178.11 49.11l-0.03-0.02 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="EVERYBODY" style="transform: matrix(.209,0,0,.209,170.324,50.029)">
+				<tspan x="0" y="0" class="t4">EVERYBODY
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m284.37 135.27l0.14 0.14-0.14 0.14-0.13-0.14z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m284.37 135.27l0.14 0.14-0.14 0.14-0.13-0.14z"/>
+			</g>
+		</g>
+		<g>
+			<text id="GUMBALL GUARDIAN #2" style="transform: matrix(.209,0,0,.209,269.701,136.352)">
+				<tspan x="0" y="0" class="t4">GUMBALL GUARDIAN #2
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m157.82 146.91l2.26 2.26-2.26 2.26-2.26-2.26z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m157.82 146.91l2.26 2.26-2.26 2.26-2.26-2.26z"/>
+			</g>
+		</g>
+		<g>
+			<text id="PEPPERMINT BUTLER" style="transform: matrix(.209,0,0,.209,144.401,150.114)">
+				<tspan x="0" y="0" class="t4">PEPPERMINT BUTLER
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m168.47 179.78l0.79 0.79-0.79 0.78-0.79-0.78z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m168.47 179.78l0.79 0.79-0.79 0.78-0.79-0.78z"/>
+			</g>
+		</g>
+		<g>
+			<text id="FERN FACE" style="transform: matrix(.209,0,0,.209,161.38,181.507)">
+				<tspan x="0" y="0" class="t4">FERN FACE
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m258.16 60.79l-0.03-0.03 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m258.16 60.79l-0.03-0.03 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="KENNETH" style="transform: matrix(.209,0,0,.209,252.183,61.7)">
+				<tspan x="0" y="0" class="t4">KENNETH
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m179.31 34.01l-0.03-0.03 0.03-0.02 0.03 0.02z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m179.31 34.01l-0.03-0.03 0.03-0.02 0.03 0.02z"/>
+			</g>
+		</g>
+		<g>
+			<text id="PUNCH BOWL" style="transform: matrix(.209,0,0,.209,170.828,34.926)">
+				<tspan x="0" y="0" class="t4">PUNCH BOWL
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m266.49 161.17l0.14 0.14-0.14 0.13-0.13-0.13z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m266.49 161.17l0.14 0.14-0.14 0.13-0.13-0.13z"/>
+			</g>
+		</g>
+		<g>
+			<text id="GUMBALL GUARDIAN #1" style="transform: matrix(.209,0,0,.209,251.822,162.25)">
+				<tspan x="0" y="0" class="t4">GUMBALL GUARDIAN #1
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m159.54 116.01l0.3 0.29-0.3 0.3-0.3-0.3z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m159.54 116.01l0.3 0.29-0.3 0.3-0.3-0.3z"/>
+			</g>
+		</g>
+		<g>
+			<text id="FINN AND JAKE" style="transform: matrix(.209,0,0,.209,150.159,117.246)">
+				<tspan x="0" y="0" class="t4">FINN AND JAKE
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m221.85 74.55l4.48 4.48-4.48 4.49-4.49-4.49z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m221.85 74.55l4.48 4.48-4.48 4.49-4.49-4.49z"/>
+			</g>
+		</g>
+		<g>
+			<text id="AT10E9.xml" style="transform: matrix(.209,0,0,.209,215.031,79.975)">
+				<tspan x="0" y="0" class="t4">AT10E9.xml
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m233.05 57.93l0.3 0.3-0.3 0.3-0.3-0.3z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m233.05 57.93l0.3 0.3-0.3 0.3-0.3-0.3z"/>
+			</g>
+		</g>
+		<g>
+			<text id="CANDY PEOPLE" style="transform: matrix(.209,0,0,.209,223.313,59.176)">
+				<tspan x="0" y="0" class="t4">CANDY PEOPLE
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m194.69 53.82l-0.03-0.03 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m194.69 53.82l-0.03-0.03 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="MANFRIED" style="transform: matrix(.209,0,0,.209,188.159,54.733)">
+				<tspan x="0" y="0" class="t4">MANFRIED
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m242.91 149.66l0.14 0.13-0.14 0.14-0.13-0.14z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m242.91 149.66l0.14 0.13-0.14 0.14-0.13-0.14z"/>
+			</g>
+		</g>
+		<g>
+			<text id="GUMBALL GUARDIANS" style="transform: matrix(.209,0,0,.209,229.148,150.737)">
+				<tspan x="0" y="0" class="t4">GUMBALL GUARDIANS
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m205.56 123.46l0.96 0.96-0.96 0.95-0.95-0.95z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m205.56 123.46l0.96 0.96-0.96 0.95-0.95-0.95z"/>
+			</g>
+		</g>
+		<g>
+			<text id="GUMBALD" style="transform: matrix(.209,0,0,.209,199.376,125.357)">
+				<tspan x="0" y="0" class="t4">GUMBALD
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m222.42 47.49l4.49 4.48-4.49 4.48-4.48-4.48z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m222.42 47.49l4.49 4.48-4.49 4.48-4.48-4.48z"/>
+			</g>
+		</g>
+		<g>
+			<text id="AT10E3.xml" style="transform: matrix(.209,0,0,.209,215.611,52.911)">
+				<tspan x="0" y="0" class="t4">AT10E3.xml
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m88.56 111.39l-0.03-0.02 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m88.56 111.39l-0.03-0.02 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="SHAPE-SHIFTER" style="transform: matrix(.209,0,0,.209,78.55,112.308)">
+				<tspan x="0" y="0" class="t4">SHAPE-SHIFTER
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m152.61 61.29l-0.03-0.03 0.03-0.02 0.03 0.02z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m152.61 61.29l-0.03-0.03 0.03-0.02 0.03 0.02z"/>
+			</g>
+		</g>
+		<g>
+			<text id="BOTH UNCLE GUMBALD AND " style="transform: matrix(.209,0,0,.209,134.673,60.631)">
+				<tspan x="0" y="0" class="t4">BOTH UNCLE GUMBALD AND 
+</tspan>
+			</text>
+		</g>
+		<g>
+			<text id="AUNT LOLLY TOGETHER " style="transform: matrix(.209,0,0,.209,137.314,63.779)">
+				<tspan x="0" y="0" class="t4">AUNT LOLLY TOGETHER 
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m294.95 116.08l-0.02-0.02 0.02-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m294.95 116.08l-0.02-0.02 0.02-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="CANDY PERSON" style="transform: matrix(.209,0,0,.209,284.942,116.998)">
+				<tspan x="0" y="0" class="t4">CANDY PERSON
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m162.49 100.2l1.28 1.28-1.28 1.28-1.28-1.28z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m162.49 100.2l1.28 1.28-1.28 1.28-1.28-1.28z"/>
+			</g>
+		</g>
+		<g>
+			<text id="CHICLE" style="transform: matrix(.209,0,0,.209,157.9,102.421)">
+				<tspan x="0" y="0" class="t4">CHICLE
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m189.51 103.59l6.35 6.34-6.35 6.35-6.34-6.35z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s5" d="m189.51 103.59l6.35 6.34-6.35 6.35-6.34-6.35z"/>
+			</g>
+		</g>
+		<g>
+			<text id="FINN" style="transform: matrix(.209,0,0,.209,186.595,110.876)">
+				<tspan x="0" y="0" class="t4">FINN
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m102.4 108.85l-0.02-0.03 0.02-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m102.4 108.85l-0.02-0.03 0.02-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="CLOCK BEAR" style="transform: matrix(.209,0,0,.209,94.338,109.76)">
+				<tspan x="0" y="0" class="t4">CLOCK BEAR
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m167.62 44.69l0.3 0.3-0.3 0.3-0.3-0.3z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m167.62 44.69l0.3 0.3-0.3 0.3-0.3-0.3z"/>
+			</g>
+		</g>
+		<g>
+			<text id="MR. CREAM PUFF" style="transform: matrix(.209,0,0,.209,156.85,45.932)">
+				<tspan x="0" y="0" class="t4">MR. CREAM PUFF
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m273.22 168.55l2.1 2.09-2.1 2.1-2.09-2.1z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m273.22 168.55l2.1 2.09-2.1 2.1-2.09-2.1z"/>
+			</g>
+		</g>
+		<g>
+			<text id="SIMON" style="transform: matrix(.209,0,0,.209,269.123,171.586)">
+				<tspan x="0" y="0" class="t4">SIMON
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m215.28 128.86l2.09 2.1-2.09 2.09-2.1-2.09z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m215.28 128.86l2.09 2.1-2.09 2.09-2.1-2.09z"/>
+			</g>
+		</g>
+		<g>
+			<text id="FERN" style="transform: matrix(.209,0,0,.209,211.871,131.897)">
+				<tspan x="0" y="0" class="t4">FERN
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m125.3 96.56l4.49 4.48-4.49 4.48-4.48-4.48z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m125.3 96.56l4.49 4.48-4.49 4.48-4.48-4.48z"/>
+			</g>
+		</g>
+		<g>
+			<text id="AT10E8.xml" style="transform: matrix(.209,0,0,.209,118.488,101.981)">
+				<tspan x="0" y="0" class="t4">AT10E8.xml
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m108.35 82.6l-0.03-0.03 0.03-0.02 0.02 0.02z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m108.35 82.6l-0.03-0.03 0.03-0.02 0.02 0.02z"/>
+			</g>
+		</g>
+		<g>
+			<text id="WOMAN" style="transform: matrix(.209,0,0,.209,103.413,83.515)">
+				<tspan x="0" y="0" class="t4">WOMAN
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m145.66 40.68l0.13 0.13-0.13 0.14-0.14-0.14z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m145.66 40.68l0.13 0.13-0.13 0.14-0.14-0.14z"/>
+			</g>
+		</g>
+		<g>
+			<text id="CANDY FISH" style="transform: matrix(.209,0,0,.209,138.082,41.757)">
+				<tspan x="0" y="0" class="t4">CANDY FISH
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m266.61 116.51l-0.03-0.03 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m266.61 116.51l-0.03-0.03 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="BETTY GROF" style="transform: matrix(.209,0,0,.209,258.616,117.423)">
+				<tspan x="0" y="0" class="t4">BETTY GROF
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m201.2 102.52l0.3 0.3-0.3 0.3-0.3-0.3z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m201.2 102.52l0.3 0.3-0.3 0.3-0.3-0.3z"/>
+			</g>
+		</g>
+		<g>
+			<text id="LOLLY" style="transform: matrix(.209,0,0,.209,197.307,103.763)">
+				<tspan x="0" y="0" class="t4">LOLLY
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m159.25 124.25l4.49 4.48-4.49 4.49-4.48-4.49z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m159.25 124.25l4.49 4.48-4.49 4.49-4.48-4.49z"/>
+			</g>
+		</g>
+		<g>
+			<text id="AT10E7.xml" style="transform: matrix(.209,0,0,.209,152.439,129.675)">
+				<tspan x="0" y="0" class="t4">AT10E7.xml
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m98.55 73.16l-0.03-0.03 0.03-0.03 0.02 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m98.55 73.16l-0.03-0.03 0.03-0.03 0.02 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="MOLE MAN" style="transform: matrix(.209,0,0,.209,91.874,74.074)">
+				<tspan x="0" y="0" class="t4">MOLE MAN
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m156.1 45.71l3.24 3.24-3.24 3.24-3.23-3.24z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m156.1 45.71l3.24 3.24-3.24 3.24-3.23-3.24z"/>
+			</g>
+		</g>
+		<g>
+			<text id="UNCLE GUMBALD" style="transform: matrix(.209,0,0,.209,145.329,49.889)">
+				<tspan x="0" y="0" class="t4">UNCLE GUMBALD
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m294.85 143.08l-0.03-0.03 0.03-0.02 0.03 0.02z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m294.85 143.08l-0.03-0.03 0.03-0.02 0.03 0.02z"/>
+			</g>
+		</g>
+		<g>
+			<text id="SIMON PETRIKOV" style="transform: matrix(.209,0,0,.209,284.072,143.996)">
+				<tspan x="0" y="0" class="t4">SIMON PETRIKOV
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m163.67 134.72l3.24 3.24-3.24 3.24-3.24-3.24z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m163.67 134.72l3.24 3.24-3.24 3.24-3.24-3.24z"/>
+			</g>
+		</g>
+		<g>
+			<text id="GREEN KNIGHT" style="transform: matrix(.209,0,0,.209,154.145,138.906)">
+				<tspan x="0" y="0" class="t4">GREEN KNIGHT
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m174.54 106.46l4.49 4.48-4.49 4.48-4.48-4.48z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m174.54 106.46l4.49 4.48-4.49 4.48-4.48-4.48z"/>
+			</g>
+		</g>
+		<g>
+			<text id="AT10E5.xml" style="transform: matrix(.209,0,0,.209,167.731,111.881)">
+				<tspan x="0" y="0" class="t4">AT10E5.xml
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m86.48 96.99l0.47 0.46-0.47 0.46-0.46-0.46z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m86.48 96.99l0.47 0.46-0.47 0.46-0.46-0.46z"/>
+			</g>
+		</g>
+		<g>
+			<text id="BABY JAKE" style="transform: matrix(.209,0,0,.209,79.669,98.394)">
+				<tspan x="0" y="0" class="t4">BABY JAKE
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m140.2 65.82l-0.02-0.03 0.02-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m140.2 65.82l-0.02-0.03 0.02-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="COUSIN CHICLE" style="transform: matrix(.209,0,0,.209,130.401,66.73)">
+				<tspan x="0" y="0" class="t4">COUSIN CHICLE
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m231.26 83.32l3.89 3.89-3.89 3.9-3.89-3.9z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m231.26 83.32l3.89 3.89-3.89 3.9-3.89-3.9z"/>
+			</g>
+		</g>
+		<g>
+			<text id="FLAME PRINCESS" style="transform: matrix(.209,0,0,.209,220.343,88.156)">
+				<tspan x="0" y="0" class="t4">FLAME PRINCESS
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m145.06 120.81l-0.03-0.03 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m145.06 120.81l-0.03-0.03 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="UNKNOWN VOICE" style="transform: matrix(.209,0,0,.209,134.217,121.721)">
+				<tspan x="0" y="0" class="t4">UNKNOWN VOICE
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m174.71 66.38l4.48 4.48-4.48 4.48-4.49-4.48z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m174.71 66.38l4.48 4.48-4.48 4.48-4.49-4.48z"/>
+			</g>
+		</g>
+		<g>
+			<text id="AT10E4.xml" style="transform: matrix(.209,0,0,.209,167.893,71.803)">
+				<tspan x="0" y="0" class="t4">AT10E4.xml
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m90.98 82.8l1.44 1.44-1.44 1.44-1.44-1.44z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m90.98 82.8l1.44 1.44-1.44 1.44-1.44-1.44z"/>
+			</g>
+		</g>
+		<g>
+			<text id="JOSHUA" style="transform: matrix(.209,0,0,.209,85.903,85.18)">
+				<tspan x="0" y="0" class="t4">JOSHUA
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m140.3 52.21l0.14 0.13-0.14 0.14-0.14-0.14z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m140.3 52.21l0.14 0.13-0.14 0.14-0.14-0.14z"/>
+			</g>
+		</g>
+		<g>
+			<text id="NEDDY" style="transform: matrix(.209,0,0,.209,135.92,53.284)">
+				<tspan x="0" y="0" class="t4">NEDDY
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m255.74 165.94l-0.02-0.03 0.02-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m255.74 165.94l-0.02-0.03 0.02-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="PEOPLE FROM BOTH SIDES" style="transform: matrix(.209,0,0,.209,238.781,166.853)">
+				<tspan x="0" y="0" class="t4">PEOPLE FROM BOTH SIDES
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m188.44 91.11l-0.02-0.03 0.02-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m188.44 91.11l-0.02-0.03 0.02-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="BANANA GUARD 2" style="transform: matrix(.209,0,0,.209,177.389,92.02)">
+				<tspan x="0" y="0" class="t4">BANANA GUARD 2
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m197.34 143.39l4.49 4.48-4.49 4.49-4.48-4.49z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m197.34 143.39l4.49 4.48-4.49 4.49-4.48-4.49z"/>
+			</g>
+		</g>
+		<g>
+			<text id="AT10E2.xml" style="transform: matrix(.209,0,0,.209,190.53,148.817)">
+				<tspan x="0" y="0" class="t4">AT10E2.xml
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m99.21 121.98l0.63 0.63-0.63 0.62-0.63-0.62z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m99.21 121.98l0.63 0.63-0.63 0.62-0.63-0.62z"/>
+			</g>
+		</g>
+		<g>
+			<text id="MARGARET" style="transform: matrix(.209,0,0,.209,92.119,123.547)">
+				<tspan x="0" y="0" class="t4">MARGARET
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m156.62 34.02l0.14 0.14-0.14 0.13-0.13-0.13z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m156.62 34.02l0.14 0.14-0.14 0.13-0.13-0.13z"/>
+			</g>
+		</g>
+		<g>
+			<text id="YOUNG PRINCESS BUBBLEGUM" style="transform: matrix(.209,0,0,.209,137.085,35.101)">
+				<tspan x="0" y="0" class="t4">YOUNG PRINCESS BUBBLEGUM
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m271.43 138.59l0.14 0.13-0.14 0.14-0.13-0.14z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m271.43 138.59l0.14 0.13-0.14 0.14-0.13-0.14z"/>
+			</g>
+		</g>
+		<g>
+			<text id="PAST FINN" style="transform: matrix(.209,0,0,.209,264.898,139.666)">
+				<tspan x="0" y="0" class="t4">PAST FINN
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m171.16 154.39l-0.03-0.03 0.03-0.03 0.02 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m171.16 154.39l-0.03-0.03 0.03-0.03 0.02 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="BANANA GUARD 1" style="transform: matrix(.209,0,0,.209,160.103,155.302)">
+				<tspan x="0" y="0" class="t4">BANANA GUARD 1
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m177.77 118.26l4.49 4.49-4.49 4.48-4.48-4.48z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m177.77 118.26l4.49 4.49-4.49 4.48-4.48-4.48z"/>
+			</g>
+		</g>
+		<g>
+			<text id="AT10E12.xml" style="transform: matrix(.209,0,0,.209,170.265,123.688)">
+				<tspan x="0" y="0" class="t4">AT10E12.xml
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m114.74 69.55l0.62 0.62-0.62 0.63-0.63-0.63z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m114.74 69.55l0.62 0.62-0.62 0.63-0.63-0.63z"/>
+			</g>
+		</g>
+		<g>
+			<text id="RENNIE" style="transform: matrix(.209,0,0,.209,110.011,71.116)">
+				<tspan x="0" y="0" class="t4">RENNIE
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m189.6 40.94l0.3 0.3-0.3 0.3-0.3-0.3z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m189.6 40.94l0.3 0.3-0.3 0.3-0.3-0.3z"/>
+			</g>
+		</g>
+		<g>
+			<text id="GOBLIN" style="transform: matrix(.209,0,0,.209,184.869,42.185)">
+				<tspan x="0" y="0" class="t4">GOBLIN
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m267.06 149.68l-0.03-0.03 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m267.06 149.68l-0.03-0.03 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="GRASS DEMON" style="transform: matrix(.209,0,0,.209,257.677,150.593)">
+				<tspan x="0" y="0" class="t4">GRASS DEMON
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m214.43 142.51l-0.02-0.03 0.02-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m214.43 142.51l-0.02-0.03 0.02-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="COLONEL CANDY CORN" style="transform: matrix(.209,0,0,.209,199.695,143.424)">
+				<tspan x="0" y="0" class="t4">COLONEL CANDY CORN
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m222.75 95.37l4.48 4.48-4.48 4.48-4.49-4.48z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m222.75 95.37l4.48 4.48-4.48 4.48-4.49-4.48z"/>
+			</g>
+		</g>
+		<g>
+			<text id="AT10E11.xml" style="transform: matrix(.209,0,0,.209,215.237,100.792)">
+				<tspan x="0" y="0" class="t4">AT10E11.xml
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m99.91 93.7l1.11 1.11-1.11 1.12-1.12-1.12z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m99.91 93.7l1.11 1.11-1.11 1.12-1.12-1.12z"/>
+			</g>
+		</g>
+		<g>
+			<text id="KIM KIL WHAN" style="transform: matrix(.209,0,0,.209,91.286,95.757)">
+				<tspan x="0" y="0" class="t4">KIM KIL WHAN
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m167.83 25.83l4.39 4.38-4.39 4.38-4.38-4.38z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m167.83 25.83l4.39 4.38-4.39 4.38-4.38-4.38z"/>
+			</g>
+		</g>
+		<g>
+			<text id="YOUNG BUBBLEGUM" style="transform: matrix(.209,0,0,.209,155.043,31.153)">
+				<tspan x="0" y="0" class="t4">YOUNG BUBBLEGUM
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m231.01 148.08l-0.02-0.03 0.02-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m231.01 148.08l-0.02-0.03 0.02-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="PRINCESS BUBBLEGUM'S VOICE " style="transform: matrix(.209,0,0,.209,210.751,147.419)">
+				<tspan x="0" y="0" class="t4">PRINCESS BUBBLEGUM'S VOICE 
+</tspan>
+			</text>
+		</g>
+		<g>
+			<text id="IN FINN'S HEAD " style="transform: matrix(.209,0,0,.209,221.251,150.567)">
+				<tspan x="0" y="0" class="t4">IN FINN'S HEAD 
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m177.35 90.84l0.62 0.63-0.62 0.62-0.63-0.62z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m177.35 90.84l0.62 0.63-0.62 0.62-0.63-0.62z"/>
+			</g>
+		</g>
+		<g>
+			<text id="STARCHY" style="transform: matrix(.209,0,0,.209,171.367,92.408)">
+				<tspan x="0" y="0" class="t4">STARCHY
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m146.13 150.3l4.49 4.48-4.49 4.49-4.48-4.49z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m146.13 150.3l4.49 4.48-4.49 4.49-4.48-4.49z"/>
+			</g>
+		</g>
+		<g>
+			<text id="AT10E10.xml" style="transform: matrix(.209,0,0,.209,138.624,155.726)">
+				<tspan x="0" y="0" class="t4">AT10E10.xml
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m125.61 125.6l-0.02-0.03 0.02-0.02 0.03 0.02z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m125.61 125.6l-0.02-0.03 0.02-0.02 0.03 0.02z"/>
+			</g>
+		</g>
+		<g>
+			<text id="MARCLINE" style="transform: matrix(.209,0,0,.209,119.149,126.516)">
+				<tspan x="0" y="0" class="t4">MARCLINE
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m216.69 27.27l-0.03-0.03 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m216.69 27.27l-0.03-0.03 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="PARTY BEAR" style="transform: matrix(.209,0,0,.209,208.765,28.184)">
+				<tspan x="0" y="0" class="t4">PARTY BEAR
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m239.18 100.45l0.13 0.14-0.13 0.13-0.14-0.13z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m239.18 100.45l0.13 0.14-0.13 0.13-0.14-0.13z"/>
+			</g>
+		</g>
+		<g>
+			<text id="FINN &amp; FERN" style="transform: matrix(.209,0,0,.209,231.323,101.531)">
+				<tspan x="0" y="0" class="t4">FINN &amp; FERN
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m221.32 118.51l-0.03-0.02 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m221.32 118.51l-0.03-0.02 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="FINN AND JERMAINE" style="transform: matrix(.209,0,0,.209,208.741,119.427)">
+				<tspan x="0" y="0" class="t4">FINN AND JERMAINE
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m186.21 115.97l6.18 6.18-6.18 6.18-6.18-6.18z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m186.21 115.97l6.18 6.18-6.18 6.18-6.18-6.18z"/>
+			</g>
+		</g>
+		<g>
+			<text id="JAKE" style="transform: matrix(.209,0,0,.209,183.084,123.096)">
+				<tspan x="0" y="0" class="t4">JAKE
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m132.67 138.82l0.96 0.95-0.96 0.95-0.95-0.95z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m132.67 138.82l0.96 0.95-0.96 0.95-0.95-0.95z"/>
+			</g>
+		</g>
+		<g>
+			<text id="GHOST" style="transform: matrix(.209,0,0,.209,128.226,140.713)">
+				<tspan x="0" y="0" class="t4">GHOST
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m232.3 24.51l1.45 1.45-1.45 1.44-1.44-1.44z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m232.3 24.51l1.45 1.45-1.45 1.44-1.44-1.44z"/>
+			</g>
+		</g>
+		<g>
+			<text id="FLAME KING" style="transform: matrix(.209,0,0,.209,224.726,26.897)">
+				<tspan x="0" y="0" class="t4">FLAME KING
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m297.33 130.4l0.13 0.14-0.13 0.13-0.14-0.13z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m297.33 130.4l0.13 0.14-0.13 0.13-0.14-0.13z"/>
+			</g>
+		</g>
+		<g>
+			<text id="CANDY BONNIBEL" style="transform: matrix(.209,0,0,.209,286.273,131.48)">
+				<tspan x="0" y="0" class="t4">CANDY BONNIBEL
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m239.93 119.19l0.63 0.63-0.63 0.62-0.62-0.62z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m239.93 119.19l0.63 0.63-0.63 0.62-0.62-0.62z"/>
+			</g>
+		</g>
+		<g>
+			<text id="PAST BETTY" style="transform: matrix(.209,0,0,.209,232.284,120.758)">
+				<tspan x="0" y="0" class="t4">PAST BETTY
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m257.58 129.47l4.48 4.48-4.48 4.48-4.49-4.48z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m257.58 129.47l4.48 4.48-4.48 4.48-4.49-4.48z"/>
+			</g>
+		</g>
+		<g>
+			<text id="AT10E13.xml" style="transform: matrix(.209,0,0,.209,250.066,134.892)">
+				<tspan x="0" y="0" class="t4">AT10E13.xml
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m134.08 152.5l-0.02-0.03 0.02-0.02 0.03 0.02z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m134.08 152.5l-0.02-0.03 0.02-0.02 0.03 0.02z"/>
+			</g>
+		</g>
+		<g>
+			<text id="UNNAMED GHOST" style="transform: matrix(.209,0,0,.209,122.963,153.415)">
+				<tspan x="0" y="0" class="t4">UNNAMED GHOST
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m244.68 30.17l0.95 0.95-0.95 0.95-0.96-0.95z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m244.68 30.17l0.95 0.95-0.95 0.95-0.96-0.95z"/>
+			</g>
+		</g>
+		<g>
+			<text id="SON OF RAP BEAR" style="transform: matrix(.209,0,0,.209,233.204,32.063)">
+				<tspan x="0" y="0" class="t4">SON OF RAP BEAR
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m287.34 124.47l-0.02-0.03 0.02-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m287.34 124.47l-0.02-0.03 0.02-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="CHARLIE" style="transform: matrix(.209,0,0,.209,281.921,125.382)">
+				<tspan x="0" y="0" class="t4">CHARLIE
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m229.04 127.92l-0.02-0.02 0.02-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m229.04 127.92l-0.02-0.02 0.02-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="ICE THING" style="transform: matrix(.209,0,0,.209,222.719,128.839)">
+				<tspan x="0" y="0" class="t4">ICE THING
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m217.13 158.84l0.14 0.14-0.14 0.14-0.13-0.14z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m217.13 158.84l0.14 0.14-0.14 0.14-0.13-0.14z"/>
+			</g>
+		</g>
+		<g>
+			<text id="BANANA GUARD" style="transform: matrix(.209,0,0,.209,207.122,159.922)">
+				<tspan x="0" y="0" class="t4">BANANA GUARD
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m129.91 123.81l6.34 6.34-6.34 6.35-6.35-6.35z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s5" d="m129.91 123.81l6.34 6.34-6.34 6.35-6.35-6.35z"/>
+			</g>
+		</g>
+		<g>
+			<text id="HUNSON" style="transform: matrix(.209,0,0,.209,124.484,131.094)">
+				<tspan x="0" y="0" class="t4">HUNSON
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m215.28 13.76l-0.03-0.02 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m215.28 13.76l-0.03-0.02 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="GINGERBREAD RAPPER" style="transform: matrix(.209,0,0,.209,200.543,14.679)">
+				<tspan x="0" y="0" class="t4">GINGERBREAD RAPPER
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m290.08 153.65l0.3 0.3-0.3 0.29-0.3-0.29z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m290.08 153.65l0.3 0.3-0.3 0.29-0.3-0.29z"/>
+			</g>
+		</g>
+		<g>
+			<text id="LADY RAINICORN" style="transform: matrix(.209,0,0,.209,279.444,154.888)">
+				<tspan x="0" y="0" class="t4">LADY RAINICORN
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m210.24 71.83l-0.03-0.03 0.03-0.02 0.03 0.02z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m210.24 71.83l-0.03-0.03 0.03-0.02 0.03 0.02z"/>
+			</g>
+		</g>
+		<g>
+			<text id="FERN FROG" style="transform: matrix(.209,0,0,.209,202.873,72.747)">
+				<tspan x="0" y="0" class="t4">FERN FROG
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m163.09 193.22l-0.02-0.03 0.02-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m163.09 193.22l-0.02-0.03 0.02-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="BOTH GUARDS" style="transform: matrix(.209,0,0,.209,153.919,194.134)">
+				<tspan x="0" y="0" class="t4">BOTH GUARDS
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m246.26 282.9l-0.03-0.03 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m246.26 282.9l-0.03-0.03 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="KING OF OOO" style="transform: matrix(.209,0,0,.209,237.849,283.812)">
+				<tspan x="0" y="0" class="t4">KING OF OOO
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m203.81 23.15l0.47 0.47-0.47 0.46-0.46-0.46z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m203.81 23.15l0.47 0.47-0.47 0.46-0.46-0.46z"/>
+			</g>
+		</g>
+		<g>
+			<text id="RAP BEAR" style="transform: matrix(.209,0,0,.209,197.487,24.558)">
+				<tspan x="0" y="0" class="t4">RAP BEAR
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m283.72 164.32l-0.03-0.02 0.03-0.03 0.02 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m283.72 164.32l-0.03-0.02 0.03-0.03 0.02 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="BANANA GUARD 500" style="transform: matrix(.209,0,0,.209,271.271,165.239)">
+				<tspan x="0" y="0" class="t4">BANANA GUARD 500
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m251.36 76.75l0.13 0.14-0.13 0.13-0.14-0.13z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m251.36 76.75l0.13 0.14-0.13 0.13-0.14-0.13z"/>
+			</g>
+		</g>
+		<g>
+			<text id="GUARD MAN" style="transform: matrix(.209,0,0,.209,243.71,77.83)">
+				<tspan x="0" y="0" class="t4">GUARD MAN
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m175.71 199.5l1.12 1.12-1.12 1.11-1.11-1.11z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m175.71 199.5l1.12 1.12-1.12 1.11-1.11-1.11z"/>
+			</g>
+		</g>
+		<g>
+			<text id="LEFT GUARD" style="transform: matrix(.209,0,0,.209,167.786,201.559)">
+				<tspan x="0" y="0" class="t4">LEFT GUARD
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m256.49 263.77l1.6 1.61-1.6 1.6-1.61-1.6z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m256.49 263.77l1.6 1.61-1.6 1.6-1.61-1.6z"/>
+			</g>
+		</g>
+		<g>
+			<text id="WYATT" style="transform: matrix(.209,0,0,.209,252.11,266.32)">
+				<tspan x="0" y="0" class="t4">WYATT
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m229.36 13.17l0.13 0.14-0.13 0.13-0.14-0.13z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m229.36 13.17l0.13 0.14-0.13 0.13-0.14-0.13z"/>
+			</g>
+		</g>
+		<g>
+			<text id="FINN AND FLAME PRINCESS" style="transform: matrix(.209,0,0,.209,212.186,14.248)">
+				<tspan x="0" y="0" class="t4">FINN AND FLAME PRINCESS
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m235.29 170.42l0.63 0.63-0.63 0.63-0.62-0.63z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m235.29 170.42l0.63 0.63-0.63 0.63-0.62-0.63z"/>
+			</g>
+		</g>
+		<g>
+			<text id="LUMPY SPACE PRINCESS" style="transform: matrix(.209,0,0,.209,219.65,171.991)">
+				<tspan x="0" y="0" class="t4">LUMPY SPACE PRINCESS
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m253.56 103.94l1.12 1.12-1.12 1.11-1.11-1.11z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m253.56 103.94l1.12 1.12-1.12 1.11-1.11-1.11z"/>
+			</g>
+		</g>
+		<g>
+			<text id="KING MAN" style="transform: matrix(.209,0,0,.209,247.378,105.999)">
+				<tspan x="0" y="0" class="t4">KING MAN
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m186 156.78l4.48 4.48-4.48 4.49-4.49-4.49z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m186 156.78l4.48 4.48-4.48 4.49-4.49-4.49z"/>
+			</g>
+		</g>
+		<g>
+			<text id="AT10E1.xml" style="transform: matrix(.209,0,0,.209,179.181,162.206)">
+				<tspan x="0" y="0" class="t4">AT10E1.xml
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m233.21 279.49l-0.03-0.03 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m233.21 279.49l-0.03-0.03 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="CREW MEMBERS" style="transform: matrix(.209,0,0,.209,222.715,280.404)">
+				<tspan x="0" y="0" class="t4">CREW MEMBERS
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m256.47 33.61l0.79 0.78-0.79 0.79-0.79-0.79z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m256.47 33.61l0.79 0.78-0.79 0.79-0.79-0.79z"/>
+			</g>
+		</g>
+		<g>
+			<text id="TORONTO" style="transform: matrix(.209,0,0,.209,250.212,35.337)">
+				<tspan x="0" y="0" class="t4">TORONTO
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m195.87 126.58l4.06 4.06-4.06 4.05-4.06-4.05z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m195.87 126.58l4.06 4.06-4.06 4.05-4.06-4.05z"/>
+			</g>
+		</g>
+		<g>
+			<text id="MARCELINE" style="transform: matrix(.209,0,0,.209,188.571,131.58)">
+				<tspan x="0" y="0" class="t4">MARCELINE
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m245.42 107.27l2.59 2.59-2.59 2.58-2.59-2.58z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m245.42 107.27l2.59 2.59-2.59 2.58-2.59-2.58z"/>
+			</g>
+		</g>
+		<g>
+			<text id="BETTY" style="transform: matrix(.209,0,0,.209,241.387,110.799)">
+				<tspan x="0" y="0" class="t4">BETTY
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m203.37 182.94l0.95 0.95-0.95 0.95-0.96-0.95z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m203.37 182.94l0.95 0.95-0.95 0.95-0.96-0.95z"/>
+			</g>
+		</g>
+		<g>
+			<text id="RIGHT GUARD" style="transform: matrix(.209,0,0,.209,194.609,184.83)">
+				<tspan x="0" y="0" class="t4">RIGHT GUARD
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m253.43 252.16l-0.02-0.03 0.02-0.02 0.03 0.02z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m253.43 252.16l-0.02-0.03 0.02-0.02 0.03 0.02z"/>
+			</g>
+		</g>
+		<g>
+			<text id="&quot;PEANUT&quot;" style="transform: matrix(.209,0,0,.209,247.47,253.077)">
+				<tspan x="0" y="0" class="t4">&quot;PEANUT&quot;
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m244.61 17.28l0.46 0.46-0.46 0.46-0.46-0.46z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m244.61 17.28l0.46 0.46-0.46 0.46-0.46-0.46z"/>
+			</g>
+		</g>
+		<g>
+			<text id="&quot;VICTOR MARILYN&quot;" style="transform: matrix(.209,0,0,.209,233.083,18.68)">
+				<tspan x="0" y="0" class="t4">&quot;VICTOR MARILYN&quot;
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m265.58 128.78l-0.03-0.03 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m265.58 128.78l-0.03-0.03 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="PRINCESS BUBBLEGUM IN VIDEO" style="transform: matrix(.209,0,0,.209,245.138,129.691)">
+				<tspan x="0" y="0" class="t4">PRINCESS BUBBLEGUM IN VIDEO
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m249.53 94.13l0.96 0.95-0.96 0.95-0.95-0.95z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m249.53 94.13l0.96 0.95-0.96 0.95-0.95-0.95z"/>
+			</g>
+		</g>
+		<g>
+			<text id="JERMAINE" style="transform: matrix(.209,0,0,.209,243.209,96.024)">
+				<tspan x="0" y="0" class="t4">JERMAINE
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m237.22 226.5l0.79 0.79-0.79 0.79-0.79-0.79z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m237.22 226.5l0.79 0.79-0.79 0.79-0.79-0.79z"/>
+			</g>
+		</g>
+		<g>
+			<text id="DANNY" style="transform: matrix(.209,0,0,.209,232.839,228.236)">
+				<tspan x="0" y="0" class="t4">DANNY
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m217.91 201.84l1.44 1.44-1.44 1.44-1.44-1.44z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m217.91 201.84l1.44 1.44-1.44 1.44-1.44-1.44z"/>
+			</g>
+		</g>
+		<g>
+			<text id="MR. PIG" style="transform: matrix(.209,0,0,.209,213.115,204.221)">
+				<tspan x="0" y="0" class="t4">MR. PIG
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m232.63 159.2l-0.02-0.02 0.02-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m232.63 159.2l-0.02-0.02 0.02-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="CAKE PERSON" style="transform: matrix(.209,0,0,.209,223.595,160.118)">
+				<tspan x="0" y="0" class="t4">CAKE PERSON
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m119.7 167.71l-0.03-0.03 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m119.7 167.71l-0.03-0.03 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="ALIEN 2" style="transform: matrix(.209,0,0,.209,115.041,168.624)">
+				<tspan x="0" y="0" class="t4">ALIEN 2
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m243.5 268.74l-0.02-0.03 0.02-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m243.5 268.74l-0.02-0.03 0.02-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="CREW MEMBER" style="transform: matrix(.209,0,0,.209,233.843,269.651)">
+				<tspan x="0" y="0" class="t4">CREW MEMBER
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m223.15 215.42l4.48 4.48-4.48 4.49-4.49-4.49z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m223.15 215.42l4.48 4.48-4.48 4.49-4.49-4.49z"/>
+			</g>
+		</g>
+		<g>
+			<text id="AT10E6.xml" style="transform: matrix(.209,0,0,.209,216.333,220.844)">
+				<tspan x="0" y="0" class="t4">AT10E6.xml
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m249.06 176.09l-0.03-0.02 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m249.06 176.09l-0.03-0.02 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="CAMERA" style="transform: matrix(.209,0,0,.209,243.705,177.009)">
+				<tspan x="0" y="0" class="t4">CAMERA
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m110.44 158.82l-0.03-0.03 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m110.44 158.82l-0.03-0.03 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="ALIEN 1" style="transform: matrix(.209,0,0,.209,105.782,159.73)">
+				<tspan x="0" y="0" class="t4">ALIEN 1
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m206.94 281.88l-0.02-0.03 0.02-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m206.94 281.88l-0.02-0.03 0.02-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="MR. FAIDUTTI" style="transform: matrix(.209,0,0,.209,198.674,282.792)">
+				<tspan x="0" y="0" class="t4">MR. FAIDUTTI
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m207.93 197.59l9.94 9.94-9.94 9.93-9.93-9.93z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s6" d="m207.93 197.59l9.94 9.94-9.94 9.93-9.93-9.93z"/>
+			</g>
+		</g>
+		<g>
+			<text id="TREE TRUNKS" style="transform: matrix(.209,0,0,.209,199.104,208.468)">
+				<tspan x="0" y="0" class="t4">TREE TRUNKS
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m279.97 114.42l0.47 0.47-0.47 0.46-0.46-0.46z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m279.97 114.42l0.47 0.47-0.47 0.46-0.46-0.46z"/>
+			</g>
+		</g>
+		<g>
+			<text id="LEMONGRAB" style="transform: matrix(.209,0,0,.209,271.979,115.828)">
+				<tspan x="0" y="0" class="t4">LEMONGRAB
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m138.09 187.32l0.62 0.63-0.62 0.63-0.63-0.63z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m138.09 187.32l0.62 0.63-0.62 0.63-0.63-0.63z"/>
+			</g>
+		</g>
+		<g>
+			<text id="ALIENS" style="transform: matrix(.209,0,0,.209,133.635,188.892)">
+				<tspan x="0" y="0" class="t4">ALIENS
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m201.23 254.35l-0.03-0.03 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m201.23 254.35l-0.03-0.03 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="RANDY'S FATHER" style="transform: matrix(.209,0,0,.209,190.424,255.264)">
+				<tspan x="0" y="0" class="t4">RANDY'S FATHER
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m244.64 162.69l-0.03-0.03 0.03-0.02 0.03 0.02z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m244.64 162.69l-0.03-0.03 0.03-0.02 0.03 0.02z"/>
+			</g>
+		</g>
+		<g>
+			<text id="MUSIC HOLE" style="transform: matrix(.209,0,0,.209,236.855,163.605)">
+				<tspan x="0" y="0" class="t4">MUSIC HOLE
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m258.21 142.74l0.3 0.3-0.3 0.3-0.3-0.3z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m258.21 142.74l0.3 0.3-0.3 0.3-0.3-0.3z"/>
+			</g>
+		</g>
+		<g>
+			<text id="DUKE OF NUTS" style="transform: matrix(.209,0,0,.209,248.897,143.981)">
+				<tspan x="0" y="0" class="t4">DUKE OF NUTS
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m129.37 178.76l-0.03-0.03 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m129.37 178.76l-0.03-0.03 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="ALIEN" style="transform: matrix(.209,0,0,.209,125.755,179.674)">
+				<tspan x="0" y="0" class="t4">ALIEN
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m199.99 269.3l0.3 0.29-0.3 0.3-0.29-0.3z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m199.99 269.3l0.3 0.29-0.3 0.3-0.29-0.3z"/>
+			</g>
+		</g>
+		<g>
+			<text id="COOKIE" style="transform: matrix(.209,0,0,.209,195.128,270.536)">
+				<tspan x="0" y="0" class="t4">COOKIE
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m241.45 83.52l0.46 0.47-0.46 0.46-0.46-0.46z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m241.45 83.52l0.46 0.47-0.46 0.46-0.46-0.46z"/>
+			</g>
+		</g>
+		<g>
+			<text id="NEPTR" style="transform: matrix(.209,0,0,.209,237.211,84.928)">
+				<tspan x="0" y="0" class="t4">NEPTR
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m254.59 154.46l0.3 0.3-0.3 0.3-0.3-0.3z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m254.59 154.46l0.3 0.3-0.3 0.3-0.3-0.3z"/>
+			</g>
+		</g>
+		<g>
+			<text id="BMO NARRATING" style="transform: matrix(.209,0,0,.209,244.021,155.705)">
+				<tspan x="0" y="0" class="t4">BMO NARRATING
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m118.21 173.12l6.83 6.83-6.83 6.83-6.83-6.83z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s7" d="m118.21 173.12l6.83 6.83-6.83 6.83-6.83-6.83z"/>
+			</g>
+		</g>
+		<g>
+			<text id="WARREN AMPERSAND" style="transform: matrix(.209,0,0,.209,104.377,180.892)">
+				<tspan x="0" y="0" class="t4">WARREN AMPERSAND
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m218.28 271.39l3.08 3.08-3.08 3.07-3.08-3.07z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m218.28 271.39l3.08 3.08-3.08 3.07-3.08-3.07z"/>
+			</g>
+		</g>
+		<g>
+			<text id="RANDY" style="transform: matrix(.209,0,0,.209,213.9,275.407)">
+				<tspan x="0" y="0" class="t4">RANDY
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m276.99 92.73l-0.02-0.03 0.02-0.02 0.03 0.02z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m276.99 92.73l-0.02-0.03 0.02-0.02 0.03 0.02z"/>
+			</g>
+		</g>
+		<g>
+			<text id="GUNTER" style="transform: matrix(.209,0,0,.209,271.71,93.647)">
+				<tspan x="0" y="0" class="t4">GUNTER
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m207.85 95.09l1.77 1.76-1.77 1.77-1.77-1.77z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m207.85 95.09l1.77 1.76-1.77 1.77-1.77-1.77z"/>
+			</g>
+		</g>
+		<g>
+			<text id="BMO" style="transform: matrix(.209,0,0,.209,205.003,97.796)">
+				<tspan x="0" y="0" class="t4">BMO
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m190.32 185.02l-0.03-0.03 0.03-0.03 0.02 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m190.32 185.02l-0.03-0.03 0.03-0.03 0.02 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="MYSTERIOUS CHARACTER" style="transform: matrix(.209,0,0,.209,173.91,185.932)">
+				<tspan x="0" y="0" class="t4">MYSTERIOUS CHARACTER
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m222.97 287.99l0.63 0.63-0.63 0.62-0.62-0.62z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m222.97 287.99l0.63 0.63-0.63 0.62-0.62-0.62z"/>
+			</g>
+		</g>
+		<g>
+			<text id="SWEET P" style="transform: matrix(.209,0,0,.209,217.34,289.559)">
+				<tspan x="0" y="0" class="t4">SWEET P
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m264.4 94.76l-0.03-0.02 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m264.4 94.76l-0.03-0.02 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="SLIME PRINCESS" style="transform: matrix(.209,0,0,.209,253.902,95.679)">
+				<tspan x="0" y="0" class="t4">SLIME PRINCESS
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m262.45 175.5l-0.02-0.03 0.02-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m262.45 175.5l-0.02-0.03 0.02-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="PRINCESS ZIP" style="transform: matrix(.209,0,0,.209,253.763,176.414)">
+				<tspan x="0" y="0" class="t4">PRINCESS ZIP
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m190.53 198.29l-0.02-0.02 0.02-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m190.53 198.29l-0.02-0.02 0.02-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="ANOTHER GUARD" style="transform: matrix(.209,0,0,.209,179.552,199.208)">
+				<tspan x="0" y="0" class="t4">ANOTHER GUARD
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m147.76 102.8l-0.03-0.03 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m147.76 102.8l-0.03-0.03 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="GREEN KNIGHT AND FINN AT " style="transform: matrix(.209,0,0,.209,129.684,102.137)">
+				<tspan x="0" y="0" class="t4">GREEN KNIGHT AND FINN AT 
+</tspan>
+			</text>
+		</g>
+		<g>
+			<text id="SAME TIME " style="transform: matrix(.209,0,0,.209,140.528,105.285)">
+				<tspan x="0" y="0" class="t4">SAME TIME 
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m265.76 105.93l-0.03-0.03 0.03-0.02 0.02 0.02z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m265.76 105.93l-0.03-0.03 0.03-0.02 0.02 0.02z"/>
+			</g>
+		</g>
+		<g>
+			<text id="ANCIENT PSYCHIC TANDEM WAR " style="transform: matrix(.209,0,0,.209,245.111,105.272)">
+				<tspan x="0" y="0" class="t4">ANCIENT PSYCHIC TANDEM WAR 
+</tspan>
+			</text>
+		</g>
+		<g>
+			<text id="ELEPHANT " style="transform: matrix(.209,0,0,.209,258.804,108.419)">
+				<tspan x="0" y="0" class="t4">ELEPHANT 
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m231.38 107.25l3.4 3.4-3.4 3.41-3.41-3.41z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m231.38 107.25l3.4 3.4-3.4 3.41-3.41-3.41z"/>
+			</g>
+		</g>
+		<g>
+			<text id="BETH" style="transform: matrix(.209,0,0,.209,228.04,111.595)">
+				<tspan x="0" y="0" class="t4">BETH
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m177.3 139.63l0.79 0.79-0.79 0.79-0.79-0.79z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m177.3 139.63l0.79 0.79-0.79 0.79-0.79-0.79z"/>
+			</g>
+		</g>
+		<g>
+			<text id="HUNTRESS WIZARD" style="transform: matrix(.209,0,0,.209,165.133,141.359)">
+				<tspan x="0" y="0" class="t4">HUNTRESS WIZARD
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m162.71 79.1l0.3 0.3-0.3 0.3-0.3-0.3z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m162.71 79.1l0.3 0.3-0.3 0.3-0.3-0.3z"/>
+			</g>
+		</g>
+		<g>
+			<text id="BUBBLEGUM, MARCELINE, " style="transform: matrix(.209,0,0,.209,146.166,77.193)">
+				<tspan x="0" y="0" class="t4">BUBBLEGUM, MARCELINE, 
+</tspan>
+			</text>
+		</g>
+		<g>
+			<text id="STARCHY AND HUNTRESS " style="transform: matrix(.209,0,0,.209,146.168,80.34)">
+				<tspan x="0" y="0" class="t4">STARCHY AND HUNTRESS 
+</tspan>
+			</text>
+		</g>
+		<g>
+			<text id="WIZARD " style="transform: matrix(.209,0,0,.209,157.431,83.488)">
+				<tspan x="0" y="0" class="t4">WIZARD 
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m276.18 126.11l-0.03-0.02 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m276.18 126.11l-0.03-0.02 0.03-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="SHELBY" style="transform: matrix(.209,0,0,.209,271.244,127.028)">
+				<tspan x="0" y="0" class="t4">SHELBY
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m280.85 139.77l5.69 5.69-5.69 5.69-5.69-5.69z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m280.85 139.77l5.69 5.69-5.69 5.69-5.69-5.69z"/>
+			</g>
+		</g>
+		<g>
+			<text id="SHERMY" style="transform: matrix(.209,0,0,.209,275.494,146.402)">
+				<tspan x="0" y="0" class="t4">SHERMY
+</tspan>
+			</text>
+		</g>
+		<g>
+			<g>
+				<path class="s2" d="m178.62 188.13l-0.02-0.02 0.02-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="s3" d="m178.62 188.13l-0.02-0.02 0.02-0.03 0.03 0.03z"/>
+			</g>
+		</g>
+		<g>
+			<text id="ALL" style="transform: matrix(.209,0,0,.209,176.397,189.049)">
+				<tspan x="0" y="0" class="t4">ALL
+</tspan>
+			</text>
+		</g>
+	</g>
+</svg>
