@@ -4,12 +4,27 @@ figcaption {
     }
     
 body {
-    background: #47A189;
+    background: #82CFAE;
     font-family: Arial, "Courier New", sans-serif;
     line-height:1.0em;
     margin: 0;            
     overflow-x: hidden;  
 }
+
+.content-box {
+    width: 60%;
+    margin: 2em auto; /* centers horizontally + adds vertical spacing */
+    padding: 1.5em;
+
+    background: #8FE3BF; /* cleaner than grey */
+    border: 2px solid #28f2df; /* matches your accent color */
+    border-radius: 12px; /* smooth corners */
+
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15); /* subtle depth */
+    line-height: 1.5em; /* better readability */
+    text-align: center;
+}
+    
 /*.computer and .video are apart of the bmo setup, where the z-index indicates which sits on top. 
 In this case, the computer.png sits on top.*/ 
 .computer {
@@ -24,8 +39,8 @@ In this case, the computer.png sits on top.*/
 }
 .video {
     position: absolute;      
-    top: 250px;              
-    left: 450px;             
+    top: 50px;              
+    left: 250px;             
     width: 900px;          
     height: 500px;
     z-index: 1;            
@@ -62,7 +77,7 @@ footer {
     color: white;
 }
 h4 {
-    line-height:0.6em;
+    line-height:1.0em;
     
 }
 .finn {
@@ -72,4 +87,14 @@ h4 {
 
 .finn:hover {
 transform: translateY(-25px);
+}
+
+.cyto {
+  display: inline-block;
+  transition: transform 0.7s ease;
+  transform-origin: center;
+}
+
+.cyto:hover {
+  transform: translateY(100px) scale(1.5);
 }

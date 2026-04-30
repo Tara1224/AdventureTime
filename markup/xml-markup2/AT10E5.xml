@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml><introduction>Episode starts in Candy Kingdom. Scene is set in the evening</introduction>
+    <line><character>Finn</character><dialogue>Birthday boy-e-e-e!</dialogue></line>
+    <line><character>Princess Bubblegum</character><dialogue>Enjoying your party?</dialogue></line>
+    <line><character>Finn</character><dialogue>It's great having fun with all my friends. Well, some of my friends mostly Banana Guards.</dialogue></line>
+    <line><character>Princess Bubblegum</character><dialogue>Yeah, sorry about that. The Candy Kingdom is in full lockdown until I can sort out the rumors about my Uncle Gumbald. He's been gone for years, but we should stay vigilant.</dialogue></line>
+    <line><character>Finn</character><dialogue>Don't worry, PB. Now that I'm 17, I'm feelin' ready for anything. Feels like I'm really hitting my stride, y'know?</dialogue></line>
+    <line><character>Marceline</character><dialogue>Finn, I want to give you your gift before I forget. It's a harmonica.</dialogue></line>
+    <line><character>Finn</character><dialogue>Awesome! <stage>Inhales deeply</stage></dialogue></line>
+    <line><character>BMO</character><dialogue>Finn, I designed an exciting new game for you.</dialogue></line>
+    <line><character>Finn</character><dialogue>Show me.</dialogue></line>
+    <line><character>BMO</character><dialogue>It's called "Birthday Boyfighter. <stage>Game music plays</stage></dialogue></line>
+    <line><character>Finn</character><dialogue>Looks like another hit.</dialogue></line>
+    <line><character>Starchy</character><dialogue>Finn, Starchy didn't get you squat.</dialogue></line>
+    <line><character>Huntress Wizard</character><dialogue>I got you a present too. It has emotional and metaphorical significance.</dialogue></line>
+    <line><character>Finn</character><dialogue>It's beautifully wrapped. Wonder what it is.</dialogue></line>
+    <line><character>Huntress Wizard</character><dialogue>It's an elk's heart.</dialogue></line>
+    <line><character>Finn</character><dialogue>Oh, cool. I don't have one of those.</dialogue></line>
+    <line><stage>Thumping</stage></line>
+    <line><character>Finn</character><dialogue>What's that sound?</dialogue></line>
+    <line><character>Starchy</character><dialogue>It's zombies.</dialogue></line>
+    <line><character>Huntress Wizard</character><dialogue>Sounds like hooves.</dialogue></line>
+    <line><character>Starchy</character><dialogue>Zombie cows.</dialogue></line>
+    <line><stage>Green Knight busts open the door</stage></line>
+    <line><character>Finn</character><dialogue>You're green!</dialogue></line>
+    <line><character>Green Knight</character><dialogue>I'm the Green Knight! And before you ask, yes, of course, I brought you a birthday present. It's a battle axe.</dialogue></line>
+    <line><character>Finn</character><dialogue>That's some axe. Am I an axe guy though? I've always thought of myself as a sword guy.</dialogue></line>
+    <line><character>Green Knight</character><dialogue>But only if you play me a game for it.</dialogue></line>
+    <line><character>Finn</character><dialogue>What's the game?</dialogue></line>
+    <line><character>Green Knight</character><dialogue>Oh, this game is called "All you have to do is strike me with it, and it is yours."</dialogue></line>
+    <line><character>Finn</character><dialogue>Mm? <stage>Inhales deeply</stage> I can't axe some stranger. Wait a minute! Where's Jake? I know what's going on.</dialogue></line>
+    <line><character>Princess Bubblegum</character><dialogue>No, I don't think you do.</dialogue></line>
+    <line><character>Finn</character><dialogue>Relax, Princess. Jake loves playing birthday pranks on me.</dialogue></line>
+    <line><character>unidentifiable Banana Guard</character><dialogue>Yes, of course One of Jake's classic pranks.</dialogue></line>
+    <line><character>Finn</character><dialogue>Okay, I'm in.</dialogue></line>
+    <line><character>Green Knight</character><dialogue>May your aim be steady.</dialogue></line>
+    <line><character>Finn</character><dialogue><stage>Laughs</stage> Sure thing Jake! <stage>Finn decapitates The Green Knight</stage> I win!</dialogue></line>
+    <line><character>Everyone</character><dialogue><stage>Cheers</stage></dialogue></line>
+    <line><character>Banana Guards</character><dialogue>Yeah, Finn! Yeah, Finn!</dialogue></line>
+    <line><character>Jake</character><dialogue>Happy birthday, Finn.</dialogue></line>
+    <line><character>Finn</character><dialogue><stage>Shrieks</stage> Jake! When did you Whose head did I Are you pranking me?</dialogue></line>
+    <line><character>Jake</character><dialogue>What? No. My prank is this fake-out gift. Huh?</dialogue></line>
+    <line><stage>Green Knight fixes head back on</stage></line>
+    <line><character>Jake</character><dialogue>What's this guy's deal?</dialogue></line>
+    <line><character>Princess Bubblegum</character><dialogue>Oh, nuh-uh! Banana guards, surround him! And be on the lookout for anything else strange!</dialogue></line>
+    <line><character>Banana Guards</character><dialogue>Hup, hup, hup, hup, hup, hup, hup, hup, hup! Surrender, please.</dialogue></line>
+    <line><stage>Green Knight extends vine/tentacle like appendages and grabs Banana Guards with them</stage></line>
+    <line><character>Unidentifiable Banana Guard</character><dialogue>Princess, is that strange?</dialogue></line>
+    <line><character>Princess Bubblegum</character><dialogue>Yes!</dialogue></line>
+    <line><character>Unidentifiable Banana Guard</character><dialogue>I did good.</dialogue></line>
+    <line><character>Banana Guards</character><dialogue><stage>Screams as they get thrown around</stage></dialogue></line>
+    <line><character>Princess Bubblegum</character><dialogue>My guards!</dialogue></line>
+    <line><character>Finn</character><dialogue>I got this. Raah! <stage>Axe handle turns into an eel and hisses</stage> Eel!</dialogue></line>
+    <line><character>Marceline</character><dialogue><stage>Marceline turns into her beast form</stage> Get him!</dialogue></line>
+    <line><character>Jake</character><dialogue><stage>Shouts</stage> <stage>Groans</stage> Aw.</dialogue></line>
+    <line><character>Huntress Wizard</character><dialogue>He might have an invisible shield. But I'm not sure, because it's invisible.</dialogue></line>
+    <line><character>Jake</character><dialogue>Owiee. Yes. It's an invisible shield.</dialogue></line>
+    <line><character>Princess Bubblegum</character><dialogue>An invisible shield. I've got a device for the dissolution of invisible shields.</dialogue></line>
+    <line><stage>Whirrs, beeps</stage> <stage>Malfunctions</stage></line>
+    <line><character>Princess Bubblegum</character><dialogue>Impossible.</dialogue></line>
+    <line><character>Green Knight</character><dialogue><stage>Laughs maniacally</stage> Heh!</dialogue></line>
+    <line><character>Princess Bubblegum</character><dialogue>Back off, everyone. He's using some advanced mystery tech.</dialogue></line>
+    <line><character>Green Knight</character><dialogue><stage>Laughs maniacally</stage></dialogue></line>
+    <line><character>Princess Bubblegum</character><dialogue>Okay, let's talk.</dialogue></line>
+    <line><character>Green Knight</character><dialogue><stage>Laughs maniacally</stage> What do you want to talk about?</dialogue></line>
+    <line><character>Princess Bubblegum</character><dialogue>Where did you come from? Why are you playing this weird game with Finn?</dialogue></line>
+    <line><character>Green Knight</character><dialogue><stage>Laughs maniacally</stage> <stage>Laughing continues</stage></dialogue></line>
+    <line><character>Princess Bubblegum</character><dialogue>He's playing Mr. Laughing Silent Guy.</dialogue></line>
+    <line><character>Finn</character><dialogue>Game's over, bro.</dialogue></line>
+    <line><character>Green Knight</character><dialogue>The game isn't over until I strike you.</dialogue></line>
+    <line><character>Finn</character><dialogue>Hmm. Let's come up with a better way to settle this, like reasonable late teens.</dialogue></line>
+    <line><character>Green Knight</character><dialogue>I'm listening.</dialogue></line>
+    <line><character>Finn</character><dialogue>Well, we've got everything set up for party games. How about if I beat you two out of three, you got to answer our questions.</dialogue></line>
+    <line><character>Princess Bubblegum</character><dialogue>Psst! Nuh!</dialogue></line>
+    <line><character>Green Knight</character><dialogue>And if I win chop, chop.</dialogue></line>
+    <line><character>Finn</character><dialogue>Deal.</dialogue></line>
+    <line><character>Princess Bubblegum</character><dialogue>Wait, Finn, I think he's plotting something.</dialogue></line>
+    <line><character>Finn</character><dialogue>I-It's fine. I'm 17. I'm hittin' my stride.</dialogue></line>
+    <line><stage>Forcefield activates, everyone except Finn and the Green Knight gets swept away</stage></line>
+    <line><character>Finn</character><dialogue>Hey, Green Knight, why are they all mimey?</dialogue></line>
+    <line><character>Green Knight</character><dialogue>Ah, just to keep things fair.</dialogue></line>
+    <line><stage>Hitting forcefield</stage> <stage>Sighs</stage></line>
+    <line><character>Princess Bubblegum</character><dialogue>I don't think he can hear us.</dialogue></line>
+    <line><character>Green Knight</character><dialogue><stage>Laughs ominously</stage></dialogue></line>
+    <line><character>Finn</character><dialogue>Okay, guy. Why don't we start with something basic like balls and coconuts. Hup! Hup! Hup, hup, hup, hup, hup, hup, hup. Ba-ba-ba-boom! Boom!</dialogue></line>
+    <line><character>Everyone</character><dialogue><stage>CHEERING</stage> Okay, Finn! Yeah, yeah! You got it, Finn! You go, boy!</dialogue></line>
+    <line><character>Finn</character><dialogue><stage>Slow motion</stage> Boooooooom! <stage>Horse Belches</stage> <stage>Slow motion ends</stage> Aw, what? I'll let you have that one, 'cause I'm a big boy today. But let's see you try and beat four out of five, huh?</dialogue></line>
+    <line><stage>Whirring</stage></line>
+    <line><character>Green Knight</character><dialogue>How do you like them coconuts?</dialogue></line>
+    <line><character>Finn</character><dialogue><stage>Mutters to himself</stage> I hate them coconuts.</dialogue></line>
+    <line><character>Princess Bubblegum</character><dialogue>Something's wrong.</dialogue></line>
+    <line><character>Marceline</character><dialogue>Yeah, I swear that looked fake.</dialogue></line>
+    <line><character>Huntress Wizard</character><dialogue>It was. I saw it all with my Huntress vision. Finn is totally getting played.</dialogue></line>
+    <line><character>Finn</character><dialogue><stage>Inhales deeply</stage> All right. You got a freaky curveball, man. But can you climb a greasy pole?</dialogue></line>
+    <line><character>Starchy</character><dialogue>A greasy pole?! It's hard enough climbing a non-greasy pole!</dialogue></line>
+    <line><character>Finn</character><dialogue>Ready?</dialogue></line>
+    <line><character>Green Knight</character><dialogue><stage>Chuckles</stage> Mm-hmm!</dialogue></line>
+    <line><character>Finn</character><dialogue>One, two, three, go! <stage>Grunts</stage> Ha, ha! <stage>Panting</stage></dialogue></line>
+    <line><stage>Green Knight begins slow clapping</stage></line>
+    <line><character>Finn</character><dialogue>Huh?</dialogue></line>
+    <line><character>Green Knight</character><dialogue>Finn, you climb so good. I guess you win this round.</dialogue></line>
+    <line><character>Princess Bubblegum</character><dialogue>Hmm.</dialogue></line>
+    <line><character>BMO</character><dialogue>Yay, Finn!</dialogue></line>
+    <line><character>Marceline, Huntress Wizard, BMO And Starchy</character><dialogue>Whoo-hoo-hoo-hoo!</dialogue></line>
+    <line><character>Jake</character><dialogue>That's right! Yay, yay! Now's our chance, BMO.</dialogue></line>
+    <line><character>BMO</character><dialogue>I-Is Finn gonna be okay?</dialogue></line>
+    <line><character>Jake</character><dialogue>He's got this. He's 17.</dialogue></line>
+    <line><character>Finn</character><dialogue>Who's the ma-a-an? Who's the 17-year-old ma-a-a-an? <stage>Finn rips off his shirt</stage> Hoo! You've been a good sport, so I'll let you choose the tiebreaker.</dialogue></line>
+    <line><character>Bubblegum, Marceline, Starchy and Huntress Wizard</character><dialogue><stage>Muffled</stage> Don't do it! Wait, don't do it! Not a good idea!</dialogue></line>
+    <line><character>Green Knight</character><dialogue>Very well. Hmm How about a game of some good old-fashioned arm wrestling?</dialogue></line>
+    <line><character>Finn</character><dialogue>Arm wrestling, huh? I see what you did there. My guns are obviously weak as heck from climbing that greasy pole. If only I had some kind of <stage>Whirrs</stage> superhuman robot arm. Bam!</dialogue></line>
+    <line><character>Green Knight and Finn at same time</character><dialogue>Three, two, one, go!</dialogue></line>
+    <line><character>Finn</character><dialogue><stage>Strained cry</stage> Ahh!</dialogue></line>
+    <line><character>Green Knight</character><dialogue>You can't tell from my face, but I am smiling triumphantly.</dialogue></line>
+    <line><character>Finn</character><dialogue>Nooo! It's my birthday!</dialogue></line>
+    <line><character>Green Knight</character><dialogue>I know. It's my birthday, too.</dialogue></line>
+    <line><character>Finn</character><dialogue>Fern?</dialogue></line>
+    <line><stage>The Green Knight grabs Finn by his arm and swings him at the table, Finn breaks through the table</stage></line>
+    <line><character>Bubblegum, Marceline, Starchy and Huntress Wizard</character><dialogue>Oh, no! No! Finn!</dialogue></line>
+    <line><character>Green Knight</character><dialogue><stage>Chuckles</stage> Finally, I win! <stage>The Green Knight approaches Finn ready to swing his axe at him</stage></dialogue></line>
+    <line><character>Gumbald</character><dialogue>Fern! We've seen enough.</dialogue></line>
+    <line><character>Finn</character><dialogue><stage>Groans</stage></dialogue></line>
+    <line><character>Bubblegum, Marceline, Starchy and Huntress Wizard</character><dialogue>Finn! Finn! Finn, are you all right?</dialogue></line>
+    <line><character>Starchy</character><dialogue>I love you, Finn!</dialogue></line>
+    <line><character>Huntress Wizard</character><dialogue>Quick, eat this elk's heart.</dialogue></line>
+    <line><character>Princess Bubblegum</character><dialogue>What is this?</dialogue></line>
+    <line><character>Gumbald</character><dialogue>It's a family reunion.</dialogue></line>
+    <line><character>Princess Bubblegum</character><dialogue>Uncle Gumbald, Cousin Chicle, Aunt Lolly. How are you back?!</dialogue></line>
+    <line><character>Gumbald</character><dialogue>Here's a hint <stage>Mimics Lumpy Space Princess’s voice</stage> "Oh, my glob".</dialogue></line>
+    <line><character>Princess Bubblegum</character><dialogue>Lumpy Space Princess. <stage>Bubblegum remembers happenings from Elements miniseries where LSP reverts Ooo back to normal</stage> When she reset Ooo, she reset you.</dialogue></line>
+    <line><character>Gumbald</character><dialogue>For 800 years, you kept us imprisoned, Princezzin.</dialogue></line>
+    <line><character>Princess Bubblegum</character><dialogue>No, you were happier as candy people.</dialogue></line>
+    <line><character>Gumbald</character><dialogue>We thought we were. But don't worry it's your turn to be happy now. Get juiced.</dialogue></line>
+    <line><stage>Marceline in her beast form jumps in front of Bubblegum</stage></line>
+    <line><character>Marceline</character><dialogue><stage>Hisses</stage> Back off, gumwad!</dialogue></line>
+    <line><character>Gumbald</character><dialogue>The vampire girl is legitimately scary. Very well. You've witnessed our superior technology and watched your champion crushed.</dialogue></line>
+    <line><character>Finn</character><dialogue><stage>Vomits</stage></dialogue></line>
+    <line><character>Gumbald</character><dialogue>We'll go for now.</dialogue></line>
+    <line><character>Green Knight</character><dialogue><stage>Laughs</stage></dialogue></line>
+    <line><character>Finn</character><dialogue>This is my worst B-day ever.</dialogue></line>
+    <line><character>Everyone</character><dialogue><stage>Singing</stage> Happy birthday to you. Happy birthday to you</dialogue></line>
+    <line><character>Ice King</character><dialogue><stage>In a seductive feminine tone</stage> Happy birthday Mr.Finn Mert-ens</dialogue></line>
+    <line><character>Everyone</character><dialogue><stage>Voices reverberate</stage> Happy birthday to you.</dialogue></line>
+    <credits></credits></xml>
