@@ -67,7 +67,12 @@ body {
 
     text-align: left;
 }
-
+.content-box img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
 /* =========================
    TYPOGRAPHY
 ========================= */
@@ -206,11 +211,4 @@ figcaption {
 .notebook-container {
     width: 100%;
     margin-top: 20px;
-}
-
-.notebook-container iframe {
-    width: 100%;
-    height: 800px;
-    border: none;
-    border-radius: 10px;
 }
