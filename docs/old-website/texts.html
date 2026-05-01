@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    
+    <head>
+        <title>Adventure Time Large Text Analysis</title>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" type="text/css" href="style.css" />
+    </head>
+    
+    <body>
+        
+        <div class="page-wrapper">
+            
+            <nav class="navbar">
+                <a href="index.html">Home</a>
+                <a href="texts.html">Source Texts</a>
+                <a href="workflow.html">Workflow</a>
+                <a href="jupyter.html">Linguistic Analysis</a>
+                <a href="analysis.html">Character Analysis</a>
+                <a href="credits.html">Credits</a>
+            </nav>
+            
+            <div class="title-block">
+                <h1>Source Texts</h1>
+                <h2><i>Tara, Trinity &amp; Colin</i></h2>
+                <h3>DIGIT 210</h3>
+            </div>
+            
+            <div class="content-box">
+                <h1>Link to Scripts</h1>
+                <h4>
+                    <a href="https://adventuretime.fandom.com/wiki/Category:Transcripts" target="_blank">
+                        View Here
+                    </a>
+                </h4>
+            </div>
+            
+            <div class="content-box">
+                <h1>From .txt to .xml</h1>
+                <h4>
+                    This is documentation on how we used <i>REGEX</i> to transform raw text files into workable XML. REGEX,
+                    also known as regular expressions, is a sequence of characters that defines a search pattern. Using this,
+                    we can refill the highlighted information with xml tags like &lt;character&gt;&lt;/character&gt;
+                </h4>
+            </div>
+            
+            <div class="content-box">
+                <h1>REGEX Steps</h1>
+                
+                <h4>
+                    First, like usual I found an eliminated all &gt;, &lt;, and &amp; that would ruin our xml. Fortunately,
+                    there was nothing to be removed and I could immediately start on the process.
+                </h4>
+                
+                <h4>FIND</h4>
+                <code>(^.+)</code>
+                
+                <h4>REPLACE</h4>
+                <code>&lt;line&gt;\1&lt;/line&gt;</code>
+                
+                <h4>
+                    This wraps every sentence with a line tag. then I found that every character was followed by a colon.
+                </h4>
+                
+                <h4>FIND</h4>
+                <code>&lt;line&gt;(.+):</code>
+                
+                <h4>REPLACE</h4>
+                <code>&lt;line&gt;&lt;character&gt;\1&lt;/character&gt;</code>
+                
+                <h4>
+                    This keeps the line tag intact when I find/replace. Next, dialogue
+                </h4>
+                
+                <h4>FIND</h4>
+                <code>&lt;/character&gt;(.+)&lt;/line&gt;</code>
+                
+                <h4>REPLACE</h4>
+                <code>&lt;/character&gt;&lt;dialogue&gt;\1&lt;/dialogue&gt;&lt;/line&gt;</code>
+                
+                <h4>
+                    Now all I have left is stage directions and clean up. I saw that the stage directions were wrapped in square brackets.
+                </h4>
+                
+                <h4>FIND</h4>
+                <code>\[(.+?)\]</code>
+                
+                <h4>REPLACE</h4>
+                <code>&lt;stage&gt;\1&lt;/stage&gt;</code>
+                
+                <h4>
+                    Now I wrapped the whole thing in xml and fixed the beginning and end with an intro and credits tag.
+                </h4>
+            </div>
+            
+            <div class="content-box">
+                <h1>INPUT (raw .txt file)</h1>
+                <img src="images/raw.png" width="700" alt="Raw text example" />
+            </div>
+            
+            <div class="content-box">
+                <h1>OUTPUT (.xml)</h1>
+                <img src="images/xml.png" width="700" alt="XML output example" />
+            </div>
+            
+            <footer>
+                
+                <h3><b>Contacts</b></h3>
+                
+                <p>
+                    Emails: cro5191@psu.edu (Colin), tem5597@psu.edu (Tara), trt5294@psu.edu (Trinity)<br />
+                    Professor: Beshero-Bonder | eeb4@psu.edu<br />
+                </p>
+                
+                <p>
+                    <a href="https://example.com">
+                        Tara, Trinity, and Colin DIGIT 210 Website
+                    </a>
+                    © 2026 by
+                    <a href="https://example.com">
+                        Team Adventure Time
+                    </a>
+                    is licensed under
+                    <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">
+                        CC BY-SA 4.0 License
+                    </a>
+                    
+                    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="Creative Commons icon" />
+                </p>
+                
+                <p>
+                    <a href="https://github.com/Tara1224/AdventureTime.git" target="_blank">
+                        <img src="images/git.png" width="30" alt="GitHub link icon" />
+                    </a>
+                </p>
+                
+            </footer>
+            
+        </div>
+        
+    </body>
+</html>

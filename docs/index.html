@@ -2,124 +2,99 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 
     <head>
-
         <title>Adventure Time Large Text Analysis</title>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
         <link rel="stylesheet" type="text/css" href="style.css" />
     </head>
 
-
     <body>
-        <nav class="navbar">
-            <a href="index.html">Home</a>
-            <a href="texts.html">Source Texts</a>
-            <a href="workflow.html">Workflow</a>
-            <a href="jupyter.html">Linguistic Analysis</a>
-            <a href="analysis.html">Character Analysis</a>
-            <a href="credits.html">Credits</a>
-        </nav>
-        <h1 style="text-align:center;">Adventure Time Large Scale Text Analysis</h1>
-        <h2 style="text-align:center;"><i>Tara, Trinity &amp; Colin</i></h2>
-        <h3 style="text-align:center;">DIGIT 210</h3>
-        <section>
-            <div class="content-box">
-                <h1 style="text-align:center;">Main Question</h1>
-                <h4 style="text-align:center;"> Can we identify which character is speaking based
-                    only on dialogue patterns? We would analyze 3–5 specific characters and compare
-                    their language use across episodes. Some patterns we could look at: Word
-                    frequency, catchphrase detection, sentence length, emotional tone. We also want
-                    to figure out differences from the pilot episode all the way to the finale. We
-                    can do this by making separate code for both season 1 and 10. </h4>
+        <div class="page-wrapper">
+
+            <nav class="navbar">
+                <a href="index.html">Home</a>
+                <a href="texts.html">Source Texts</a>
+                <a href="workflow.html">Workflow</a>
+                <a href="jupyter.html">Linguistic Analysis</a>
+                <a href="analysis.html">Character Analysis</a>
+                <a href="credits.html">Credits</a>
+            </nav>
+
+            <div class="title-block">
+                <h1>Adventure Time Large Scale Text Analysis</h1>
+                <h2><i>Tara, Trinity &amp; Colin</i></h2>
+                <h3>DIGIT 210</h3>
             </div>
-        </section>
-        <section>
 
             <div class="content-box">
-                <h1 style="text-align:center;">Some Background</h1>
-                <h4 style="text-align:center;"> We took season 1 and season 10 scripts from the 2010
-                    show, Adventure Time, and transformed them into readable xml using <i>REGEX</i>
-                    and other technologies that we learned in class. After, we will analyzed them
-                    for specific character dialogue and form an analysis. </h4>
+                <h1>Main Question</h1>
+                <h4> Can we identify which character is speaking based only on dialogue patterns? We
+                    would analyze 3–5 specific characters and compare their language use across
+                    episodes. Some patterns we could look at: word frequency, catchphrase detection,
+                    sentence length, emotional tone. We also want to figure out differences from the
+                    pilot episode all the way to the finale. </h4>
             </div>
 
-
-
-
-
-        </section>
-        <div class="content-box">
-
-            <h1 style="margin-left:20px; color:red;">BIGGEST DISCOVERY!!</h1>
-            <h4 style="margin-left:20px;"> With our CytoScape models located on the analysis tab, we
-                compared season 1's characters to season 10's, the final season.<br />
-            </h4>
-            <h3 style="margin-left:20px; color:white;">Season 1</h3>
-            <h4 style="margin-left:20px;"> Dialogue is heavily concentrated around a few main
-                characters:</h4>
-            <ul style="text-align:left;">
-                <li>Finn the Human</li>
-                <li>Jake the Dog</li>
-            </ul>
-            <h4 style="margin-left:20px;"> Episodes are more episodic and simple, so most lines go
-                to the main duo. Side characters appear, but they don’t carry much dialogue
-                weight<br /> Nodes are really big for Finn and Jake and mostly really small for
-                other characters.<br> </br> Many small, less connected nodes. </h4>
-            <h3 style="margin-left:20px; color:white;">Season 10 (Final Season)</h3>
-            <h4 style="margin-left:20px;"> Dialogue becomes much more spread out across many
-                characters. Side characters become central to the story:</h4>
-            <ul style="text-align:left;">
-                <li>Princess Bubblegum</li>
-                <li>Marceline</li>
-                <li>Ice King</li>
-                <li>Tree Trunks</li>
-            </ul>
-            <h4 style="margin-left:20px;"> More medium-sized nodes instead of just a few huge ones.
-                More connections between different characters (not just Finn/Jake) </h4>
-            <h3 style="margin-left:20px; color:red;">Season 1: Main-character driven (Finn and Jake
-                dominate)</h3>
-            <h3 style="margin-left:20px; color:red;">Final Season: Ensemble cast (many characters
-                share importance)</h3>
-
-
-
-
-
-        </div>
-        <div class="content-box">
-            <h1 style="margin-left:20px; color:white;">Meet the Team</h1>
-
-        </div>
-        <div class="content-box">
-
-            <!-- these are filler images -->
-            <div class="image-row">
-                <img src="images/titlecard.jpg" width="150" alt="img1" />
-                <img src="images/titlecard.jpg" width="150" alt="img2" />
-                <img src="images/titlecard.jpg" width="150" alt="img3" />
+            <div class="content-box">
+                <h1>Some Background</h1>
+                <h4> We took season 1 and season 10 scripts from the 2010 show Adventure Time and
+                    transformed them into readable XML using REGEX and other technologies learned in
+                    class. We then analyzed them for character dialogue patterns. </h4>
             </div>
 
-            <p>Our headshots will go here.</p>
+            <div class="content-box">
+                <h1 style="color:red;">BIGGEST DISCOVERY!!</h1>
+
+                <h4> With our Cytoscape models located on the analysis tab, we compared season 1's
+                    characters to season 10's final season. </h4>
+
+                <h3>Season 1</h3>
+                <h4>Dialogue is heavily concentrated around a few main characters:</h4>
+                <ul>
+                    <li>Finn the Human</li>
+                    <li>Jake the Dog</li>
+                </ul>
+
+                <h3>Season 10 (Final Season)</h3>
+                <ul>
+                    <li>Princess Bubblegum</li>
+                    <li>Marceline</li>
+                    <li>Ice King</li>
+                    <li>Tree Trunks</li>
+                </ul>
+
+                <h3 style="color:red;">Season 1: Main-character driven</h3>
+                <h3 style="color:red;">Season 10: Ensemble cast</h3>
+            </div>
+            <footer>
+
+                <h3 style="text-align:center;">
+                    <b>Contacts</b>
+                </h3>
+
+                <p style="text-align:center;"> Creators: Tara | tem5597@psu.edu, Colin |
+                    cro5191@psu.edu, Trinity | trt5294@psu.edu<br /> Professor: Elisa Beshero-Bonder
+                    | eeb4@psu.edu<br />
+                </p>
+
+                <p style="text-align:center;">
+                    <a href="https://example.com"> Tara, Trinity, and Colin DIGIT 210 Website
+                    </a><br /> Adventure Time Large Text Analysis © 2026 by Adventure Time Team is
+                    licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/"
+                        target="_blank" rel="noopener"> CC BY-SA 4.0 License </a>
+                    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg"
+                        alt="Creative Commons license icon"
+                        style="max-width: 1em; max-height:1em; margin-left: .2em;" />
+                </p>
+
+                <p style="text-align:center;">
+                    <a href="https://github.com/Tara1224/AdventureTime.git" target="_blank"
+                        rel="noopener">
+                        <img src="images/git.png" width="30" alt="GitHub Logo" />
+                    </a>
+                </p>
+
+            </footer>
         </div>
-        <footer>
-            <h3 style="text-align:center;"><b>Contacts</b>
-            </h3>
-
-
-
-            <p style="text-align:center;">Emails: cro5191@psu.edu (Colin), tem5597@psu.edu (Tara),
-                trt5294@psu.edu (Trinity)<br /> Professor: Beshero-Bonder | eeb4@psu.edu<br /></p>
-            <p style="text-align:center;"><a href="https://example.com">Tara, Trinity, and Colin
-                    DIGIT 210 Website</a> © 2026 by <a href="https://example.com">Team Adventure
-                    Time</a> is licensed under <a
-                    href="https://creativecommons.org/licenses/by-sa/4.0/"> CC BY-SA 4.0 License
-                    </a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt=""
-                    style="max-width: 1em;max-height:1em;margin-left: .2em;" /></p>
-            <p style="text-align:center;"><a href="https://github.com/Tara1224/AdventureTime.git"
-                    target="blank">
-                    <img src="images/git.png" width="30" alt="GitHub Logo" />
-                </a></p>
-        </footer>
     </body>
 </html>

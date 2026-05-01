@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+    <head>
+        <title>Adventure Time Large Text Analysis</title>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" type="text/css" href="style.css" />
+    </head>
+
+    <body>
+        <div class="page-wrapper">
+
+            <nav class="navbar">
+                <a href="index.html">Home</a>
+                <a href="texts.html">Source Texts</a>
+                <a href="workflow.html">Workflow</a>
+                <a href="jupyter.html">Linguistic Analysis</a>
+                <a href="analysis.html">Character Analysis</a>
+                <a href="credits.html">Credits</a>
+            </nav>
+
+            <div class="title-block">
+                <h1>Linguistic Analysis</h1>
+                <h2><i>Tara, Trinity &amp; Colin</i></h2>
+                <h3>DIGIT 210</h3>
+            </div>
+
+            <div class="content-box">
+                <h1>What is a Jupyter Notebook?</h1>
+                
+                <h4>
+                    A Jupyter Notebook is an interactive coding environment that allows us to combine
+                    Python code, written explanations, and visual outputs (such as graphs) in one place.
+                    In this project, we used a Jupyter Notebook to analyze dialogue patterns in
+                    Adventure Time by processing text files, cleaning data, and calculating word frequency.
+                </h4>
+            </div>
+            
+            <div class="content-box">
+                <h1>What Our Notebook Does</h1>
+                
+                <h4>
+                    Our notebook begins by importing required Python libraries such as <b>os</b>,
+                    <b>sys</b>, <b>Counter</b>, and <b>matplotlib</b>. It also connects to a folder of
+                    custom scripts (ATE modules) used for text processing.
+                    <br /><br />
+                    
+                    Next, it loads multiple Adventure Time episode text files and applies preprocessing
+                    functions to clean and standardize the data. Each script is processed and stored in
+                    a list for analysis.
+                    <br /><br />
+                    
+                    After processing, all text is combined into a single corpus. The notebook then splits
+                    the corpus into individual words and uses a frequency counter to identify the most
+                    common words in Season 1.
+                    <br /><br />
+                    
+                    Finally, the top 20 most frequent words are visualized using a bar chart with
+                    Matplotlib, allowing us to see patterns in character dialogue and language use.
+                </h4>
+            </div>
+            
+            <h1>Notebook Code (Reference)</h1>
+            
+            <h4>
+                The full Jupyter Notebook used for this analysis is available here:
+                <br /><br />
+                
+                <a href="https://nbviewer.org/urls/gist.githubusercontent.com/Tara1224/134eb11a40f107aba1b1ad87395f1ab0/raw/adventuretime_corpus_analysis" 
+                    target="_blank" rel="noopener">
+                    View Jupyter Notebook (Rendered Version)
+                </a>
+                
+                <br /><br />
+                
+                <a href="https://gist.githubusercontent.com/Tara1224/134eb11a40f107aba1b1ad87395f1ab0/raw/adventuretime_corpus_analysis" 
+                    target="_blank" rel="noopener">
+                    View Raw Notebook Code (Backup)
+                </a>
+            </h4>
+
+            <footer>
+
+                <h3 style="text-align:center;">
+                    <b>Contacts</b>
+                </h3>
+
+                <p style="text-align:center;"> Creators: Tara | tem5597@psu.edu, Colin |
+                    cro5191@psu.edu, Trinity | trt5294@psu.edu<br /> Professor: Elisa Beshero-Bonder
+                    | eeb4@psu.edu<br />
+                </p>
+
+                <p style="text-align:center;">
+                    <a href="https://example.com"> Tara, Trinity, and Colin DIGIT 210 Website
+                    </a><br /> Adventure Time Large Text Analysis © 2026 by Adventure Time Team is
+                    licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/"
+                        target="_blank" rel="noopener"> CC BY-SA 4.0 License </a>
+                    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg"
+                        alt="Creative Commons license icon"
+                        style="max-width: 1em; max-height:1em; margin-left: .2em;" />
+                </p>
+
+                <p style="text-align:center;">
+                    <a href="https://github.com/Tara1224/AdventureTime.git" target="_blank"
+                        rel="noopener">
+                        <img src="images/git.png" width="30" alt="GitHub Logo" />
+                    </a>
+                </p>
+
+            </footer>
+
+        </div>
+    </body>
+
+</html>
